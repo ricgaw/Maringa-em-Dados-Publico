@@ -182,3 +182,44 @@
 .person-card:focus-within{outline:3px solid #1d8667;outline-offset:3px}
 .person-card>a:focus-visible{outline:none}
 @media(prefers-reduced-motion:reduce){.person-card{transition:none}}
+
+/* Compromissos eleitorais: visualização editorial, sem pontuação de políticos */
+.promise-teaser{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(240px,.7fr);gap:20px;background:#134b3a;color:#fff;border-radius:20px;padding:34px;margin:36px 0}
+.promise-teaser .eyebrow{color:#c1f5d1}.promise-teaser h2{color:#fff;font-size:clamp(1.8rem,3.2vw,3rem);line-height:1.17;margin:14px 0}.promise-teaser h2 em{color:#c9f6a6;font-style:normal}.promise-teaser p{color:#e6f7ec;line-height:1.7}.promise-teaser .button{display:inline-flex;margin-top:18px;background:#d2ed9b;color:#174632;border-radius:12px;padding:13px 18px;font-weight:800;text-decoration:none}.promise-teaser-stats{display:flex;gap:28px;flex-wrap:wrap;margin-top:20px}.promise-teaser-stats span{display:flex;flex-direction:column;font-size:.8rem;color:#e2f5e7}.promise-teaser-stats b{color:#d8f7af;font-size:1.75rem}.promise-teaser-aside{padding:25px;border:1px solid #76a692;border-radius:16px;background:#1b5c47}.promise-teaser-aside h3{color:#fff;font-size:1.3rem}.promise-teaser-aside a{color:#dcf8aa;font-weight:800}.promise-icon{font-size:2rem}
+.promise-page{margin-bottom:50px}.promise-summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0}.promise-summary>div{background:#e8f5e9;border:1px solid #b5d6b9;border-radius:16px;padding:22px;display:flex;flex-direction:column;gap:8px}.promise-summary small{font-size:.72rem;font-weight:900;color:#285940}.promise-summary strong{font-size:2rem;color:#135338}.promise-summary span{color:#385a48;font-size:.8rem;line-height:1.5}.promise-tabs{display:flex;gap:10px;flex-wrap:wrap;margin:32px 0 22px}.promise-tab{padding:12px 17px;border:1px solid #a9cbb1;background:#fff;color:#234837;border-radius:10px;font-weight:800;cursor:pointer}.promise-tab.is-on{background:#164f3b;color:#fff;border-color:#164f3b}.promise-filters{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin:20px 0}.promise-filters label{display:flex;flex-direction:column;gap:7px;color:#234837;font-weight:700;font-size:.83rem}.promise-filters input,.promise-filters select{width:100%;padding:12px 10px;border:1px solid #bbd4c3;border-radius:9px;background:#fff;color:#173b2d}.promise-list,.promise-people{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px;margin:18px 0 35px}.promise-item{min-width:0;border:1px solid #c8dcce;border-radius:15px;background:#fff;padding:22px;display:flex;flex-direction:column;gap:12px}.promise-item-top{display:flex;gap:12px;justify-content:space-between;align-items:flex-start;flex-wrap:wrap}.promise-label{font-size:.7rem;color:#3a7c56;font-weight:900;letter-spacing:.06em}.promise-status{padding:6px 9px;border-radius:8px;background:#f3f2e9;color:#615e4b;font-size:.69rem;font-weight:850}.promise-status.promise-has-evidence{background:#d9efdd;color:#185539}.promise-item h3{font-size:1.11rem;color:#173e2e;margin:0;line-height:1.4}.promise-item p{font-size:.83rem;color:#4c6155;line-height:1.65;margin:0}.promise-item small{font-size:.76rem;color:#607569}.promise-links{display:flex;gap:12px;flex-wrap:wrap;margin-top:auto;padding-top:8px}.promise-links a{color:#146745;font-size:.8rem;font-weight:800}.promise-evidence{border-top:1px solid #dce7dd;padding-top:14px}.promise-evidence strong{color:#1a533b;font-size:.78rem}.promise-evidence p{margin-top:9px}.promise-profile-link{background:#e8f4e9;border:1px solid #bcd6c3;border-radius:12px;padding:18px;margin:24px 0}.promise-profile-link strong{color:#1a5036}.promise-profile-link p{font-size:.85rem;color:#3c5d49}.promise-profile-link a{font-weight:800;color:#176644}
+@media(max-width:780px){.promise-teaser{grid-template-columns:1fr;padding:22px}.promise-summary,.promise-filters,.promise-list,.promise-people{grid-template-columns:1fr}}
+
+/* Correspondências entre promessas de campanha e o Plano Plurianual */
+.ppa-overview{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(240px,1fr);gap:24px;margin:24px 0;padding:26px;border:1px solid #a1c8b4;border-radius:20px;background:linear-gradient(120deg,#edf8f0,#fff);color:#103b2d}
+.ppa-overview h2{margin:9px 0 14px;font-size:clamp(24px,3vw,33px)}
+.ppa-overview p{line-height:1.6}
+.ppa-steps{display:flex;flex-direction:column;gap:10px;justify-content:center}
+.ppa-steps span{display:flex;align-items:center;gap:10px;background:#fff;border-radius:12px;padding:10px 13px;font-weight:650}
+.ppa-steps b{display:inline-grid;place-items:center;width:27px;height:27px;color:#fff;background:#13634b;border-radius:50%}
+.ppa-steps small{opacity:.8;line-height:1.45}
+.ppa-links{border:1px solid #bad6c8;border-radius:14px;padding:15px 16px;margin:14px 0;background:#f1f9f4;color:#173e31}
+.ppa-links>strong{display:block;font-size:15px;margin-bottom:5px}
+.ppa-action{margin:12px 0;padding:12px;background:#fff;border-radius:10px;border-left:4px solid #328664}
+.ppa-action span{display:block;font-size:11px;letter-spacing:.03em;color:#386451;margin-bottom:6px}
+.ppa-action b{display:block;font-size:14px}
+.ppa-action small{display:block;margin-top:7px;color:#305747}
+.ppa-action p{font-size:12px;line-height:1.5;margin:6px 0 0}
+@media(max-width:760px){.ppa-overview{grid-template-columns:1fr;padding:17px;gap:12px}}
+
+/* Acompanhamento documental de promessas — acessível, sem notas políticas */
+.promise-status-overview{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:24px 0 18px}
+.promise-stage{border:1px solid #c6dcd0;border-top:5px solid #60756a;background:#fff;border-radius:14px;padding:17px 18px;display:flex;flex-direction:column;gap:7px}
+.promise-stage small{font-size:.76rem;color:#294536;font-weight:850}.promise-stage strong{font-size:2.1rem;color:#163f2b;line-height:1.1}.promise-stage span{font-size:.76rem;line-height:1.55;color:#4d6155}
+.promise-stage-planned{border-top-color:#207e96;background:#e8f6f8}.promise-stage-ongoing{border-top-color:#aa7412;background:#fff5e5}.promise-stage-partial{border-top-color:#8c6ab7;background:#f5f0fc}.promise-stage-done{border-top-color:#26845a;background:#e8f5ed}.promise-stage-pending{border-top-color:#8c9296;background:#f2f4f4}
+.promise-status{display:inline-block;border:1px solid transparent}.promise-status-planned{background:#d8eff3;color:#115c70;border-color:#94cad4}.promise-status-ongoing{background:#fff0d1;color:#795000;border-color:#d7b66e}.promise-status-partial{background:#eee4fa;color:#583a89;border-color:#c0a8e2}.promise-status-done{background:#dbf1e5;color:#176541;border-color:#97cfaf}.promise-status-pending{background:#e8eaeb;color:#43545a;border-color:#c2c9cd}.promise-status-registered{background:#f3f2e9;color:#615e4b;border-color:#ddd8c6}
+.promise-item .promise-evidence-note{font-size:.75rem;color:#536c60;padding-left:10px;border-left:3px solid #a8c7b5}
+@media(max-width:800px){.promise-status-overview{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:450px){.promise-status-overview{grid-template-columns:1fr 1fr;gap:8px}.promise-stage{padding:12px}.promise-stage strong{font-size:1.7rem}}
+
+/* Finalização: cartões de situação clicáveis, com feedback claro e acessível. */
+button.promise-stage{font:inherit;text-align:left;cursor:pointer;width:100%;min-width:0;transition:box-shadow .18s ease,transform .18s ease;border-left:1px solid #c6dcd0;border-right:1px solid #c6dcd0;border-bottom:1px solid #c6dcd0}
+button.promise-stage:hover{transform:translateY(-2px);box-shadow:0 8px 25px rgba(17,65,46,.12)}
+button.promise-stage:focus-visible{outline:3px solid #146c53;outline-offset:3px}
+button.promise-stage.is-selected{outline:3px solid #216b52;outline-offset:2px;box-shadow:0 6px 20px rgba(17,65,46,.13)}
+#promise-results{scroll-margin-top:120px}
+@media(prefers-reduced-motion:reduce){button.promise-stage{transition:none}button.promise-stage:hover{transform:none}}
