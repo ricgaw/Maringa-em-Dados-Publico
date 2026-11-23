@@ -1,0 +1,173 @@
+{
+  "metodologia": "Fotos publicadas no cadastro do SAPL. Imagens são carregadas a partir do domínio oficial e podem deixar de funcionar se o SAPL mudar os arquivos. Ausência de imagem não indica ausência de mandato.",
+  "perfis": {
+    "251": {
+      "nome": "Akemi Nishimori",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/251/akemi_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/251",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "252": {
+      "nome": "Angelo Salgueiro",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/252/angelo_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/252",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "256": {
+      "nome": "Bravin Junior",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/256/junior_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/256",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "254": {
+      "nome": "Daniel Malvezzi",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/254/daniel_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/254",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "253": {
+      "nome": "Diogo Altamir da Lotérica",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/253/diogo_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/253",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "233": {
+      "nome": "Flávio Mantovani",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/233/mantovani_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/233",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "257": {
+      "nome": "Giselli Bianchini",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/257/giselli_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/257",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "264": {
+      "nome": "Guilherme Machado",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/264/guilherme_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/264",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "258": {
+      "nome": "Italo Maroneze",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/258/italo_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/258",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "21": {
+      "nome": "Jeremias",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/21/jeremias_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/21",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "260": {
+      "nome": "Lemuel do Salvando Vidas",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/260/lemuel_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/260",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "259": {
+      "nome": "Luiz Neto",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/259/luiz_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/259",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "261": {
+      "nome": "Majô",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/261/majo_img.jpg.256x256_q85_box-3%2C0%2C895%2C890_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/261",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "244": {
+      "nome": "Maninho",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/244/maninho_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/244",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "10": {
+      "nome": "Mário Hossokawa",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/10/hossokawa_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/10",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "11": {
+      "nome": "Mário Verri",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/11/verri_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/11",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "13": {
+      "nome": "Odair Fogueteiro",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/13/odair_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/13",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "262": {
+      "nome": "Pastor Sandro",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/262/sandro_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/262",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "247": {
+      "nome": "Paulo Biazon",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/247/biazon_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/247",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "265": {
+      "nome": "Professor Pacífico",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/265/pacifico_img.jpg.256x256_q85_box-0%2C10%2C895%2C903_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/265",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "243": {
+      "nome": "Professora Ana Lúcia",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/243/ana_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/243",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "236": {
+      "nome": "Sidnei Telles",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/236/telles_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/236",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "255": {
+      "nome": "Uilian da Farmácia",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/255/uilian_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/255",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    },
+    "238": {
+      "nome": "William Gentil",
+      "foto": "https://sapl.cmm.pr.gov.br/media/sapl/public/parlamentar/238/gentil_img.jpg.256x256_q85_box-0%2C0%2C895%2C894_crop_detail.jpg",
+      "perfil_oficial": "https://sapl.cmm.pr.gov.br/parlamentar/238",
+      "origem": "SAPL — Câmara Municipal de Maringá",
+      "data_verificacao": "2026-11-21"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "versao": 1,
+  "corte": "2026-11-21",
+  "escopo": "Câmara Municipal de Maringá — 2026; documentos históricos identificados por data",
+  "relatos": [
+    {
+      "id": "conciliacao",
+      "selo": "Conferência dos dados",
+      "titulo": "R$ 46,75 milhões constam como pagos, mas nem tudo é pagamento a fornecedores",
+      "resumo": "A listagem de empenhos contém folha de pagamento, obrigações públicas e outros beneficiários. Identificamos também uma diferença que não foi associada a CNPJs neste agrupamento.",
+      "fatos": [
+        "O relatório informa R$ 46,753,361.55 na coluna Valor Pago dos 824 empenhos.",
+        "Quatro CNPJs agrupados como folha e obrigações públicas representam R$ 38,995,460.99 na mesma coluna.",
+        "Os outros 96 CNPJs correspondem a R$ 6,271,979.22.",
+        "A diferença de R$ 1,485,921.34 não está associada aos CNPJs da lista publicada."
+      ],
+      "ressalvas": [
+        "Os CNPJs não cobrem necessariamente todos os registros: não atribuímos a diferença a fornecedor algum.",
+        "Não é evidência de irregularidade; pode incluir registros sem CNPJ, outras identificações ou critérios de agrupamento que precisam ser conferidos."
+      ],
+      "questoes": [
+        "Identificar quais empenhos compõem a diferença entre o total e os registros por CNPJ.",
+        "Conciliar com relatório cronológico de pagamentos e outros documentos contábeis."
+      ],
+      "fontes": [
+        {
+          "nome": "Portal da Transparência — empenhos de 2026",
+          "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/empenhos/cf",
+          "tipo": "Dados públicos — planilha fornecida para o projeto"
+        }
+      ],
+      "relacionado": "#execucao",
+      "ultima_verificacao": "2026-11-21",
+      "status": "Levantamento documental — sem conclusão sobre irregularidades"
+    },
+    {
+      "id": "publicidade",
+      "selo": "Publicidade institucional",
+      "titulo": "Publicidade: campanha de R$ 621 mil e registros da agência Sol Propaganda",
+      "resumo": "O demonstrativo “Das Leis às Obras II 2026” apresenta R$ 621.214,00 em mídia, criação e comissão. O relatório anual de empenhos traz valores atribuídos ao CNPJ da agência, mas os períodos e escopos não estão conciliados.",
+      "fatos": [
+        "O PDF de duas páginas informa total de R$ 621.214,00 para a campanha, somando mídia e criação/comissão.",
+        "A categoria mídia soma R$ 442.828,00; criação e comissão, R$ 178.386,00.",
+        "A Sol Propaganda consta como beneficiária por CNPJ em registros financeiros de 2026, com valores de escopo potencialmente mais amplo."
+      ],
+      "ressalvas": [
+        "Não é possível concluir que todos os R$ 621.214,00 tenham sido efetivamente pagos apenas com o demonstrativo.",
+        "Não é possível atribuir valores individuais a cada veículo citado; o PDF apresenta totais por tipo de mídia.",
+        "Os valores da campanha podem já estar representados no relatório de empenhos e não podem ser somados a ele como nova despesa."
+      ],
+      "questoes": [
+        "Obter contrato da agência, notas fiscais, ordens de veiculação e prestações de contas de cada campanha.",
+        "Conferir quais empenhos estão relacionados especificamente à campanha “Das Leis às Obras II”."
+      ],
+      "fontes": [
+        {
+          "nome": "Demonstrativo “Das Leis às Obras II 2026” — cópia fornecida pelo usuário",
+          "url": "documentos/campanha_das_leis_as_obras_II_2026.pdf",
+          "tipo": "Documento identificado como publicação da Câmara; URL original ainda pendente de confirmação"
+        },
+        {
+          "nome": "Portal da Câmara — empenhos",
+          "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/empenhos/cf",
+          "tipo": "Base de empenhos"
+        }
+      ],
+      "relacionado": "#empresa/73289340000158",
+      "ultima_verificacao": "2026-11-21",
+      "status": "Levantamento documental — sem conclusão sobre irregularidades"
+    },
+    {
+      "id": "elotech",
+      "selo": "Histórico de contratações",
+      "titulo": "Elotech: requerimento de 2017, resposta da Prefeitura e registros da Câmara em 2026",
+      "resumo": "Um requerimento de 2017 pediu informações sobre a contratação da Elotech. A resposta oficial contextualiza o início dos serviços em 2005; em 2026 a Câmara registrou capacitação técnica e há lançamentos financeiros em nome da empresa.",
+      "fatos": [
+        "O Requerimento 1.295/2017, do então vereador Homero Marchese, solicitou esclarecimentos sobre contrato, aditivos e valores.",
+        "A resposta anexada ao SAPL relata que os serviços à Prefeitura começaram em 2005 por dispensa que a administração justificou como emergencial.",
+        "Notícia institucional da Câmara de 16/07/2026 relata capacitação relacionada a módulo de compras, oferecida pela empresa."
+      ],
+      "ressalvas": [
+        "A resposta de 2017 descreve a justificativa apresentada pela Prefeitura; não é um parecer independente sobre sua legalidade.",
+        "Contratos da Prefeitura de anos anteriores e pagamentos da Câmara em 2026 são conjuntos diferentes.",
+        "As fontes consultadas não comprovam parentesco nem favorecimento de agentes políticos."
+      ],
+      "questoes": [
+        "Reunir todos os contratos, aditivos e respectivos pagamentos, por órgão e período.",
+        "Conferir certidão societária atualizada por fonte oficial e examinar relações eleitorais apenas com documentação específica."
+      ],
+      "fontes": [
+        {
+          "nome": "Requerimento 1.295/2017 — Câmara",
+          "url": "https://sapl.cmm.pr.gov.br/media/sapl/public/materialegislativa/2017/26254/26254_texto_integral.pdf",
+          "tipo": "Documento oficial"
+        },
+        {
+          "nome": "Resposta administrativa anexada ao SAPL",
+          "url": "https://sapl.cmm.pr.gov.br/media/sapl/public/documentoacessorio/2017/15398/15398.pdf",
+          "tipo": "Documento oficial"
+        },
+        {
+          "nome": "Notícia institucional da Câmara — 16/07/2026",
+          "url": "https://www.cmm.pr.gov.br/?id=7190&inc=noticia",
+          "tipo": "Notícia institucional"
+        }
+      ],
+      "relacionado": "#empresa/80896194000194",
+      "ultima_verificacao": "2026-11-21",
+      "status": "Levantamento documental — sem conclusão sobre irregularidades"
+    },
+    {
+      "id": "contratos",
+      "selo": "Cruzamento documental",
+      "titulo": "28 contratos têm nome correspondente nos empenhos — mas o CNPJ contratual ainda precisa ser confirmado",
+      "resumo": "A listagem de contratos e a lista de beneficiários de empenhos foram cruzadas por igualdade do nome normalizado. O resultado facilita a pesquisa, mas não é comprovação definitiva da identidade jurídica.",
+      "fatos": [
+        "A exportação contém 35 contratos e atas registrados em 2026.",
+        "Em 28 instrumentos, o nome normalizado da contratada coincide com o nome de um CNPJ na lista de empenhos.",
+        "O contrato registra valor pactuado; o relatório de empenhos mostra fases contábeis diferentes."
+      ],
+      "ressalvas": [
+        "Uma grafia idêntica não substitui a verificação do CNPJ no contrato assinado.",
+        "Sete instrumentos sem correspondência textual não significam ausência de pagamento ou contratação irregular.",
+        "Não se deve subtrair diretamente valor de contrato de valor pago anual sem identificar o instrumento e o período."
+      ],
+      "questoes": [
+        "Obter os instrumentos contratuais assinados para conferir CNPJ, vigência e aditivos.",
+        "Relacionar empenhos por número de contrato, processo e nota fiscal."
+      ],
+      "fontes": [
+        {
+          "nome": "Portal da Transparência — contratos",
+          "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/",
+          "tipo": "Planilha de contratos fornecida para o projeto"
+        },
+        {
+          "nome": "Portal da Transparência — empenhos",
+          "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/empenhos/cf",
+          "tipo": "Planilha de empenhos fornecida para o projeto"
+        }
+      ],
+      "relacionado": "#contratos",
+      "ultima_verificacao": "2026-11-21",
+      "status": "Levantamento documental — sem conclusão sobre irregularidades"
+    }
+  ],
+  "politica_editorial": "Não há imputação de irregularidades; separar dados, interpretação, lacunas e documentação. Sem investigação conclusiva de vínculo familiar ou político."
+}

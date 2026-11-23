@@ -1,0 +1,106 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-11-21",
+  "base": "Listagem de Empenhos.xlsx, extraída do Portal da Transparência da Câmara Municipal de Maringá em 20/11/2026",
+  "exercicio": 2026,
+  "conferencia": "Somatório exclusivamente da coluna Valor Pago na listagem de empenhos; dados declarados pelo portal, não auditoria bancária.",
+  "conciliacao": {
+    "valor_pago_relatorio_centavos": 4675336155,
+    "pessoal_entidades_identificados_centavos": 3899546099,
+    "outros_cnpjs_centavos": 627197922,
+    "sem_cnpj_neste_agrupamento_centavos": 148592134,
+    "quantidade_cnpjs": 100,
+    "quantidade_outros_cnpjs": 96,
+    "quantidade_pessoal_entidades": 4
+  },
+  "principais_outros_cnpjs": [
+    {
+      "cnpj": "73289340000158",
+      "nome": "SOL PROPAGANDA LTDA",
+      "pago_centavos": 161031225,
+      "empenhos": 2
+    },
+    {
+      "cnpj": "07593524000182",
+      "nome": "BRASILRECRUTA MAO DE OBRA LTDA",
+      "pago_centavos": 54327791,
+      "empenhos": 8
+    },
+    {
+      "cnpj": "80896194000194",
+      "nome": "ELOTECH GESTAO PUBLICA LTDA.",
+      "pago_centavos": 50898295,
+      "empenhos": 12
+    },
+    {
+      "cnpj": "21715793000103",
+      "nome": "STONE SEGURANCA LTDA",
+      "pago_centavos": 43756928,
+      "empenhos": 3
+    },
+    {
+      "cnpj": "22755004000112",
+      "nome": "RALT TECH CONSTRUÇÕES LTDA",
+      "pago_centavos": 33690855,
+      "empenhos": 4
+    },
+    {
+      "cnpj": "04368898000106",
+      "nome": "COPEL DISTRIBUIÇÃO S.A.",
+      "pago_centavos": 24190648,
+      "empenhos": 3
+    },
+    {
+      "cnpj": "23921349000161",
+      "nome": "VISUAL SISTEMAS ELETRONICOS LTDA",
+      "pago_centavos": 20813017,
+      "empenhos": 3
+    },
+    {
+      "cnpj": "03419902000155",
+      "nome": "R6 INSTITUICAO DE PAGAMENTOS LTDA",
+      "pago_centavos": 15760000,
+      "empenhos": 1
+    },
+    {
+      "cnpj": "77935567000184",
+      "nome": "SOCIEDADE RURAL DE MARINGÁ",
+      "pago_centavos": 15239000,
+      "empenhos": 1
+    },
+    {
+      "cnpj": "07832586000108",
+      "nome": "DF TURISMO E EVENTOS LTDA",
+      "pago_centavos": 14551761,
+      "empenhos": 7
+    },
+    {
+      "cnpj": "04792670000149",
+      "nome": "ASSOCIAÇÃO BENEFICENTE BOM SAMARITANO",
+      "pago_centavos": 13069431,
+      "empenhos": 1
+    },
+    {
+      "cnpj": "32495373000177",
+      "nome": "VEHLOR LTDA",
+      "pago_centavos": 11132927,
+      "empenhos": 3
+    }
+  ],
+  "observacoes": [
+    "Pessoal e entidades públicas é uma classificação editorial dos quatro CNPJs agrupados, não uma classificação contábil exaustiva.",
+    "Outros CNPJs inclui fornecedores e diferentes tipos de entidade; não significa empresas privadas ou contratos licitados individualmente confirmados.",
+    "O saldo sem CNPJ é a diferença aritmética entre a coluna do relatório e os CNPJs publicados, não é pagamento irregular nem prova de falta de transparência.",
+    "Os valores de 2026 são fotografia extraída em 20/11/2026 e não devem ser confundidos com orçamento previsto, contratos assinados ou totais definitivos do exercício."
+  ],
+  "fontes": [
+    {
+      "titulo": "Portal da Transparência — empenhos",
+      "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/empenhos/cf"
+    },
+    {
+      "titulo": "Portal da Câmara — serviço de informação ao cidadão",
+      "url": "https://transparencia.cmm.pr.gov.br/?inc=sic"
+    }
+  ]
+}

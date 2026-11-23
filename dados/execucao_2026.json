@@ -1,0 +1,2900 @@
+{
+  "versao": 1,
+  "ente": "Câmara Municipal de Maringá",
+  "exercicio": 2026,
+  "exportado_em": "2026-11-20",
+  "periodo": "Exportações geradas em 20/11/2026; valores conforme consulta no momento da exportação",
+  "fontes": {
+    "empenhos": "Listagem de Empenhos.xlsx — Portal da Transparência, entidade 6",
+    "liquidacoes": "Liquidações pagas (1).xlsx — Portal da Transparência, entidade 6",
+    "contratos": "Contratos (1).xlsx — Portal da Transparência, entidade 6",
+    "licitacoes": "Listagem das Licitações.xlsx — Portal da Transparência, entidade 6",
+    "diarias": "Diárias.xlsx — Portal da Transparência, entidade 6",
+    "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/"
+  },
+  "empenhos": {
+    "registros": 824,
+    "valores": {
+      "empenhado_centavos": 5090647332,
+      "anulado_centavos": 166654660,
+      "liquidado_centavos": 4680012975,
+      "retido_centavos": 1072330408,
+      "pago_centavos": 4675336155,
+      "a_pagar_centavos": 248656517
+    },
+    "observacao": "Somas das colunas do relatório de empenhos. Valor Pago é o informado no portal nessa exportação; não constitui extrato bancário auditado."
+  },
+  "liquidacoes": {
+    "registros": 1160,
+    "valor_centavos": 3689733370,
+    "data_inicio": "2026-01-08",
+    "data_fim": "2026-11-19",
+    "observacao": "Relatório independente de liquidações de 2026, não deve ser somado ao total de empenhos."
+  },
+  "contratos": {
+    "registros": 35,
+    "total_centavos": 223795380,
+    "itens": [
+      {
+        "tipo": "Contrato",
+        "numero": "32/2026",
+        "objeto": "Contratação de empresa especializada para prestação de serviços de telecomunicações, mediante fornecimento, gerenciamento, monitoramento, manutenção e suporte de solução de rede sem fio (Wi-Fi) nas dependências do prédio da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas nos termos do Edital de Pregão n. 15/2026-CMM e proposta apresentada pela Contratada.",
+        "modalidade": "Pregão",
+        "licitacao": "15/2026",
+        "contratado": "ALGAR TELECOM S.A.",
+        "inicio": "2026-11-23",
+        "fim": "2031-11-22",
+        "valor_centavos": 7800000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "31/2026",
+        "objeto": "Aquisição de equipamentos diversos, eletrodomésticos, eletroportáteis e acessórios, destinados ao uso interno da Câmara Municipal de Maringá (Item 07), conforme especificações e quantidades estabelecidas nos termos do Edital de Pregão n. 13/2026-CMM e proposta apresentada pela Contratada.",
+        "modalidade": "Pregão",
+        "licitacao": "13/2026",
+        "contratado": "MICRON INFORMATICA LTDA",
+        "inicio": "2026-11-16",
+        "fim": "2027-11-16",
+        "valor_centavos": 396956,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "30/2026",
+        "objeto": " Aquisição de equipamentos diversos, eletrodomésticos, eletroportáteis e acessórios, destinados ao uso interno da Câmara Municipal de Maringá (Item 10), conforme especificações e quantidades estabelecidas nos termos do Edital de Pregão n. 13/2026-CMM e proposta apresentada pela Contratada.",
+        "modalidade": "Pregão",
+        "licitacao": "13/2026",
+        "contratado": "MICROSENS S/A",
+        "inicio": "2026-11-16",
+        "fim": "2028-11-16",
+        "valor_centavos": 9246000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "29/2026",
+        "objeto": "Aquisição de equipamentos diversos, eletrodomésticos, eletroportáteis e acessórios, destinados ao uso interno da Câmara Municipal de Maringá (Item 09), conforme especificações e quantidades estabelecidas nos termos do Edital de Pregão n. 13/2026-CMM e proposta apresentada pela Contratada.",
+        "modalidade": "Pregão",
+        "licitacao": "13/2026",
+        "contratado": "JR COMERCIO E SOLUCOES LTDA",
+        "inicio": "2026-11-13",
+        "fim": "2027-11-13",
+        "valor_centavos": 398000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "28/2026",
+        "objeto": "Contratação da empresa GBB COMUNICAÇÃO LTDA, inscrita no CNPJ nº 53.856.831/0001-26, para a participação da Câmara Municipal de Maringá, no âmbito do projeto \"Câmara com Você\", no evento \"Estação Sustentável\" a ser realizado em duas etapas, ambas no mês de novembro do corrente ano, na cidade de Maringá-PR.",
+        "modalidade": "Inexigibilidade",
+        "licitacao": "10/2026",
+        "contratado": "GBB COMUNICAÇÃO LTDA",
+        "inicio": "2026-11-10",
+        "fim": "2027-02-08",
+        "valor_centavos": 8000000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "27/2026",
+        "objeto": "Contratação de empresa especializada na prestação de serviços de monitoramento de mídia e clipping jornalístico multimídia, abrangendo veículos televisivos, radiofônicos, mídia impressa, plataformas digitais, portais de notícias e redes sociais, com utilização de ferramentas de Inteligência Artificial para análise de sentimento, geração de resumos automáticos, alertas em tempo real e produção de relatórios analíticos, com foco na cobertura de conteúdos relacionados à Câmara Municipal de Maringá, aos seus membros no exercício da função parlamentar e a demais assuntos de interesse institucional, veiculados em mídias locais, regionais, estaduais e nacionais, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "modalidade": "Pregão",
+        "licitacao": "11/2026",
+        "contratado": "ICLIPPING SERVICOS DE MONITORAMENTO E INFORMACAO LTDA",
+        "inicio": "2026-12-28",
+        "fim": "2027-12-28",
+        "valor_centavos": 2266800,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "26/2026",
+        "objeto": "Contratação da empresa ELEVADORES OTIS LTDA., inscrita no CNPJ nº 29.739.737/0033-90, para a prestação de serviços de manutenção preventiva e corretiva de 01 (um) elevador de passageiros instalado nas dependências da Câmara Municipal de Maringá.",
+        "modalidade": "Inexigibilidade",
+        "licitacao": "9/2026",
+        "contratado": "ELEVADORES OTIS LTDA",
+        "inicio": "2026-10-23",
+        "fim": "2027-05-31",
+        "valor_centavos": 455000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "25/2026",
+        "objeto": "Aquisição de equipamentos profissionais para implantação/modernização da infraestrutura de transmissão da TV Legislativa Municipal em sinal aberto, contemplando solução completa de codificação, decodificação, captação, transporte, processamento, monitoramento e distribuição de áudio e vídeo digital em padrões SD, HD, Full HD, 4K, UHD e 8K para atendimento à Seção de Audiovisual da Câmara Municipal de Maringá.",
+        "modalidade": "Pregão",
+        "licitacao": "10/2026",
+        "contratado": "59.613.718 MILENA MELO DE MIRANDA",
+        "inicio": "2026-09-24",
+        "fim": "2027-09-24",
+        "valor_centavos": 4454000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "24/2026",
+        "objeto": "Aquisição de equipamentos profissionais para implantação/modernização da infraestrutura de transmissão da TV Legislativa Municipal em sinal aberto, contemplando solução completa de codificação, decodificação, captação, transporte, processamento, monitoramento e distribuição de áudio e vídeo digital em padrões SD, HD, Full HD, 4K, UHD e 8K para atendimento à Seção de Audiovisual da Câmara Municipal de Maringá.",
+        "modalidade": "Pregão",
+        "licitacao": "10/2026",
+        "contratado": "65.033.784 VICTOR RODRIGO VIEGAS DE SIQUEIRA",
+        "inicio": "2026-09-14",
+        "fim": "2027-09-14",
+        "valor_centavos": 3200000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "23/2026",
+        "objeto": "Aquisição de material de expediente para suprir a demanda deste Poder Legislativo, para o Grupo Único.",
+        "modalidade": "Dispensa",
+        "licitacao": "13/2026",
+        "contratado": "HELPFIX ATACADO DE PAPELARIA LTDA",
+        "inicio": "2026-08-19",
+        "fim": "2027-08-19",
+        "valor_centavos": 1182760,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "22/2026",
+        "objeto": "Contratação de empresa ou instituição de ensino para prestação de serviços técnicos especializados para o planejamento, a organização e o processamento de Concurso Público, destinado ao provimento de cargos efetivos no âmbito da Câmara Municipal de Maringá.",
+        "modalidade": "Dispensa",
+        "licitacao": "14/2026",
+        "contratado": "FUNDAÇÃO PARA O DESENVOLVIMENTO DO ENSINO E DA PESQUISA DO DIREITO – FADEP",
+        "inicio": "2026-08-18",
+        "fim": "2027-08-18",
+        "valor_centavos": 58777000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "21/2026",
+        "objeto": "Aquisição de material de expediente para suprir a demanda deste Poder Legislativo, para o Item Único.",
+        "modalidade": "Dispensa",
+        "licitacao": "13/2026",
+        "contratado": "COLIBRI PAPEIS LTDA",
+        "inicio": "2026-08-03",
+        "fim": "2027-08-03",
+        "valor_centavos": 2252800,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "20/2026",
+        "objeto": "Aquisição de materiais gráficos, impressos institucionais, papelaria oficial e publicações legislativas, destinados ao atendimento contínuo das atividades administrativas, legislativas, institucionais, educativas e de comunicação pública da Câmara Municipal de Maringá.",
+        "modalidade": "Pregão",
+        "licitacao": "8/2026",
+        "contratado": "RB COMUNICAÇÃO VISUAL LTDA",
+        "inicio": "2026-07-27",
+        "fim": "2027-07-27",
+        "valor_centavos": 1166000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "19/2026",
+        "objeto": "Contratação da empresa Portal Licitações Municipais Ltda., inscrita no CNPJ n. 30.592.834/0001-02, a fim de promover o treinamento e aperfeiçoamento técnico dos servidores da Câmara Municipal de Maringá envolvidos nas fases interna e externa dos processos licitatórios, fiscalização e gestão contratual, por meio de adoção de programa de capacitação continuada, visando garantir mais eficiência e segurança jurídica nas contratações públicas, na modalidade presencial e in company, a ser realizado nas dependências da Câmara Municipal de Maringá, com professores José Roberto Tiossi Jr e Luis Fernando Otero.",
+        "modalidade": "Inexigibilidade",
+        "licitacao": "5/2026",
+        "contratado": "Portal Licitções Municipais Ltda.",
+        "inicio": "2026-07-23",
+        "fim": "2027-07-23",
+        "valor_centavos": 8400000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "18/2026",
+        "objeto": "Aquisição de materiais gráficos, impressos institucionais, papelaria oficial e publicações legislativas, destinados ao atendimento contínuo das atividades administrativas, legislativas, institucionais, educativas e de comunicação pública da Câmara Municipal de Maringá.",
+        "modalidade": "Pregão",
+        "licitacao": "8/2026",
+        "contratado": "SOLANGE VIDAL MANN LTDA",
+        "inicio": "2026-07-21",
+        "fim": "2027-07-21",
+        "valor_centavos": 1964700,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "17/2026",
+        "objeto": "Aquisição de materiais gráficos, impressos institucionais, papelaria oficial e publicações legislativas, destinados ao atendimento contínuo das atividades administrativas, legislativas, institucionais, educativas e de comunicação pública da Câmara Municipal de Maringá.",
+        "modalidade": "Pregão",
+        "licitacao": "8/2026",
+        "contratado": "EDITORA PROGRESSIVA LTDA",
+        "inicio": "2026-07-10",
+        "fim": "2027-07-10",
+        "valor_centavos": 5798600,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "16/2026",
+        "objeto": "Contratação de empresa para a pintura do prédio alugado da Câmara Municipal de Maringá, localizado na Rua Padre Germano José Mayer, 565.",
+        "modalidade": "Dispensa",
+        "licitacao": "12/2026",
+        "contratado": "59.909.566 AILTON ROSA",
+        "inicio": "2026-06-02",
+        "fim": "2027-06-02",
+        "valor_centavos": 1894295,
+        "aditivo_centavos": 349946,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "15/2026",
+        "objeto": "Contratação de empresa para o fornecimento de sistema informatizado para gestão de consignações em folha de pagamento dos servidores da Câmara Municipal de Maringá.",
+        "modalidade": "Dispensa",
+        "licitacao": "8/2026",
+        "contratado": "CONSIGNET SISTEMAS LTDA",
+        "inicio": "2026-05-08",
+        "fim": "2031-05-08",
+        "valor_centavos": 1,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "14/2026",
+        "objeto": "Contratação de empresa para fornecimento e entrega, na sede do Poder Legislativo Municipal, de material pedagógico para a Escola Legislativa, conforme especificações técnicas definidas.",
+        "modalidade": "Dispensa",
+        "licitacao": "10/2026",
+        "contratado": "OLIVEIRA PRESENTES E UTILIDADES LTDA",
+        "inicio": "2026-05-07",
+        "fim": "2027-05-07",
+        "valor_centavos": 1720000,
+        "aditivo_centavos": 412800,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "13/2026",
+        "objeto": "Aquisição de óculos de realidade virtual (VR), do tipo standalone, para utilização em ações institucionais, educativas e de inovação tecnológica da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "modalidade": "Pregão",
+        "licitacao": "5/2026",
+        "contratado": "KASA KOMPLETA COMERCIO E SERVICOS LTDA",
+        "inicio": "2026-05-07",
+        "fim": "2027-05-07",
+        "valor_centavos": 1613400,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "12/2026",
+        "objeto": " Constitui objeto deste acordo a cessão pelo AL/RN do Sistema Legis Vídeos - sistema voltado para o gerenciamento e a exibição de vídeos das atividades legislativas, de sua própria criação, em caráter gratuito e intransferível para utilização pela CM/MARINGÁ, bem como a cooperação técnica e operacional para implementação e customização do mesmo, em consonância com o Plano de Trabalho a ser definido, entre as partes, após a Assinatura deste Termo.",
+        "modalidade": "",
+        "licitacao": "",
+        "contratado": "ASSEMBLEIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO NORTE",
+        "inicio": "2026-04-22",
+        "fim": "2031-04-21",
+        "valor_centavos": 0,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "11/2026",
+        "objeto": "Contratação de empresa especializada para prestação de serviços de produção de Tour Virtual Imersivo em 360 graus da Câmara Municipal de Maringá, incluindo captação de imagens panorâmicas, edição, produção de conteúdos audiovisuais e desenvolvimento de ambiente virtual interativo, bem como serviços complementares de hospedagem digital e manutenção evolutiva da solução, conforme especificações técnicas definidas.",
+        "modalidade": "Dispensa",
+        "licitacao": "7/2026",
+        "contratado": "AMILTON FERREIRA DE LIMA JUNIOR 04171517990",
+        "inicio": "2026-04-24",
+        "fim": "2029-04-24",
+        "valor_centavos": 2800000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "10/2026",
+        "objeto": "Contratação de empresa especializada para fornecimento e entrega de arranjos florais destinados à ornamentação das Sessões Solenes realizadas pelo Poder Legislativo.",
+        "modalidade": "Dispensa",
+        "licitacao": "4/2026",
+        "contratado": "DANIELE DIONISIO MENDES FLORES E FESTAS",
+        "inicio": "2026-04-23",
+        "fim": "2027-04-23",
+        "valor_centavos": 4542127,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "9/2026",
+        "objeto": "Contratação da empresa SOCIEDADE RURAL DE MARINGÁ, inscrita no CNPJ nº 77.935.567/0001-84, para a locação de espaço fisíco para um estande institucional de 125 m², dentro dos padrões estabelecidos pela organizadora do evento, incluindo infraestrutura, mobiliário e demais serviços necessários para garantir o pleno funcionamento do espaço à Câmara Municipal de Maringá, visando a participação institucional no evento 52ª Edição da EXPOINGÁ – Exposição Feira Agropecuária, Industrial e Comercial de Maringá, a ser realizada entre os dias 7 e 17 de maio de 2026, no Parque Internacional de Exposições Francisco Feio Ribeiro, Av. Colombo, 2186 – Vila Morangueira, no município de Maringá/PR.",
+        "modalidade": "Inexigibilidade",
+        "licitacao": "2/2026",
+        "contratado": "SOCIEDADE RURAL DE MARINGÁ",
+        "inicio": "2026-04-13",
+        "fim": "2026-06-12",
+        "valor_centavos": 15239000,
+        "aditivo_centavos": 0,
+        "situacao": "Encerrado"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "8/2026",
+        "objeto": "Contratação de empresa para desmontagem das divisórias dos gabinetes existentes no prédio alugado da Câmara Municipal de Maringá, localizado na Rua Padre Germano José Mayer, 565, e a execução e demolição de paredes em gesso acartonado (drywall) no prédio sede da Câmara Municipal de Maringá (Avenida Papa João XXIII, 239), com serviços complementares.",
+        "modalidade": "Dispensa",
+        "licitacao": "6/2026",
+        "contratado": "FR DRYWALL INSTALADORA E DISTRIBUIDORA LTDA",
+        "inicio": "2026-04-09",
+        "fim": "2027-04-09",
+        "valor_centavos": 2813995,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "7/2026",
+        "objeto": "Contratação de empresa especializada para fornecimento de pedestais, mastros e bandeiras, visando suprir necessidade dos Gabinetes dos Vereadores e uso institucional deste Poder Legislativo.",
+        "modalidade": "Dispensa",
+        "licitacao": "2/2026",
+        "contratado": "FÁBRICA DAS BANDEIRAS IND. COM. DE CONFECÇÕES SERVIÇOS E ACESSÓRIOS LTDA",
+        "inicio": "2026-03-10",
+        "fim": "2027-03-10",
+        "valor_centavos": 3238200,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "6/2026",
+        "objeto": "Contratação de empresa especializada na prestação do serviço de administração, gerenciamento, emissão e fornecimento de CARTÃO VALE-CULTURA para até 250 servidores da Câmara Municipal de Maringá.",
+        "modalidade": "Pregão",
+        "licitacao": "3/2026",
+        "contratado": "R6 INSTITUICAO DE PAGAMENTOS LTDA",
+        "inicio": "2026-03-05",
+        "fim": "2027-03-05",
+        "valor_centavos": 30000000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "5/2026",
+        "objeto": " Aquisição de cabos de vídeo padrão DisplayPort, para ligação do segundo monitor aos computadores adquiridos através de Adesão a Ata de Registro de Preços, para uso pelos servidores da Câmara Municipal de Maringá.",
+        "modalidade": "Dispensa",
+        "licitacao": "1/2026",
+        "contratado": "JR & FILHOS COMÉRCIO DE ALIMENTOS LTDA",
+        "inicio": "2026-03-02",
+        "fim": "2027-03-02",
+        "valor_centavos": 191685,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "4/2026",
+        "objeto": "Contratação de empresa especializada para execução da ampliação da rede de lógica e elétrica da Câmara Municipal de Maringá, referente à área não abarcada pelas obras de ampliação do prédio, conforme projetos elaborados por empresa especializada (projetos, lista de materiais e memorial descritivo), para ampliação da infraestrutura de rede da Câmara Municipal.",
+        "modalidade": "Pregão",
+        "licitacao": "2/2026",
+        "contratado": "INSTALFLEX SERVICOS E INSTALACOES ELETRICAS LTDA",
+        "inicio": "2026-02-19",
+        "fim": "2027-02-19",
+        "valor_centavos": 5915377,
+        "aditivo_centavos": 1470000,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Registro de Preço",
+        "numero": "3/2026",
+        "objeto": "Registro de preços para eventual contratação de empresa para fornecimento e entrega, na sede no Poder Legislativo Municipal, do Diploma do Mérito Religioso, em atendimento à Seção de Cerimonial da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "modalidade": "Pregão",
+        "licitacao": "7/2026",
+        "contratado": "A2 COMÉRCIO E SERVIÇOS LTDA",
+        "inicio": "2026-08-26",
+        "fim": "2027-08-26",
+        "valor_centavos": 2272400,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "3/2026",
+        "objeto": "Contratação de empresa para fornecimento, entrega e montagem de móveis de escritório, como mesas de trabalho, gaveteiros, armários e cadeiras, destinados ao atendimento do Gabinete da Presidente, dos gabinetes de vereadores e demais setores deste Poder Legislativo.",
+        "modalidade": "Pregão",
+        "licitacao": "1/2026",
+        "contratado": "FRANKE CADEIRAS LTDA",
+        "inicio": "2026-02-12",
+        "fim": "2027-02-12",
+        "valor_centavos": 4580000,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Registro de Preço",
+        "numero": "2/2026",
+        "objeto": "Registro de preços para eventual contratação de empresa especializada para o fornecimento de medalhas/medalhões e placas metálicas para a concessão de condecorações/honrarias na forma da legislação pertinente, conforme modelos em anexo, em atendimento aos Vereadores do Poder Legislativo Municipal, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "modalidade": "Pregão",
+        "licitacao": "6/2026",
+        "contratado": "METAL GRAPH GRAVAÇÕES EM METAIS LTDA.",
+        "inicio": "2026-07-03",
+        "fim": "2027-07-03",
+        "valor_centavos": 662500,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "2/2026",
+        "objeto": "Contratação de empresa para fornecimento, entrega e montagem de móveis de escritório, como mesas de trabalho, gaveteiros, armários e cadeiras, destinados ao atendimento do Gabinete da Presidente, dos gabinetes de vereadores e demais setores deste Poder Legislativo.",
+        "modalidade": "Pregão",
+        "licitacao": "1/2026",
+        "contratado": "TRATTO MOVEIS LTDA.",
+        "inicio": "2026-02-11",
+        "fim": "2027-02-11",
+        "valor_centavos": 3990060,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Contrato",
+        "numero": "1/2026",
+        "objeto": "O objeto do presente contrato é Contratação de empresa para prestação de serviços de assistência à saúde, destinado aos beneficiários do Sistema de Atenção à Saúde dos Servidores de Maringá (SAMA), para o quantitativo estimado de até 187 (cento e oitenta e sete) vidas, cujas especificações constam no Anexo I do edital e faz parte deste contrato.",
+        "modalidade": "Pregão",
+        "licitacao": "144/2025",
+        "contratado": "ASSOCIAÇÃO BENEFICENTE BOM SAMARITANO",
+        "inicio": "2026-02-01",
+        "fim": "2027-02-01",
+        "valor_centavos": 18291024,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      },
+      {
+        "tipo": "Registro de Preço",
+        "numero": "1/2026",
+        "objeto": "Registro de preços para eventual contratação de empresa especializada para o fornecimento de medalhas/medalhões e placas metálicas para a concessão de condecorações/honrarias na forma da legislação pertinente, conforme modelos em anexo, em atendimento aos Vereadores do Poder Legislativo Municipal, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "modalidade": "Pregão",
+        "licitacao": "6/2026",
+        "contratado": "INDUSTRIA E COMERCIO DE PLACAS BULMARPLAC LTDA",
+        "inicio": "2026-07-02",
+        "fim": "2027-07-02",
+        "valor_centavos": 8272700,
+        "aditivo_centavos": 0,
+        "situacao": "Vigente"
+      }
+    ]
+  },
+  "licitacoes": {
+    "registros": 47,
+    "valor_homologado_centavos": 219361564,
+    "itens": [
+      {
+        "numero": "18/2026",
+        "abertura": "2026-11-26",
+        "modalidade": "Dispensa",
+        "situacao": "Aguardando Abertura",
+        "objeto": "Registro de preços para eventual contratação de empresa para fornecimento e entrega, na sede no Poder Legislativo Municipal, do Diploma de Mérito alusivo à Comenda Dom Jaime Luiz Coelho, em atendimento à Seção de Cerimonial da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 3873476,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "17/2026",
+        "abertura": "2026-11-25",
+        "modalidade": "Pregão",
+        "situacao": "Aguardando Abertura",
+        "objeto": "Aquisição de materiais de higiene, limpeza e conservação necessários para assegurar a manutenção e conservação dos ambientes da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 6826727,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "17/2026",
+        "abertura": "2026-11-23",
+        "modalidade": "Dispensa",
+        "situacao": "Aguardando Abertura",
+        "objeto": "Contratação de empresa especializada para a fabricação, fornecimento, instalação e adequação de estruturas metálicas e elementos de segurança e proteção, incluindo guarda-corpos, corrimãos, escada marinheiro e coberturas, nas dependências da Câmara Municipal de Maringá, em atendimento aos apontamentos decorrentes de vistoria realizada pelo Corpo de Bombeiros e às necessidades de adequação e segurança da edificação.",
+        "valor_maximo_centavos": 6460135,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "1/2026",
+        "abertura": "2026-11-27",
+        "modalidade": "Concorrência",
+        "situacao": "Nova Data de Abertura da Licitação",
+        "objeto": "Contratação de agência de propaganda para prestação de serviços de publicidade à Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 180395017,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "16/2026",
+        "abertura": "2026-11-16",
+        "modalidade": "Dispensa",
+        "situacao": "Andamento",
+        "objeto": "Contratação de empresa ou profissional legalmente habilitado, conforme permitido pela legislação aplicável, para a elaboração de projeto técnico de implantação de estação elevatória de esgoto nas dependências da Câmara Municipal de Maringá, contemplando os levantamentos técnicos necessários, avaliação das condições existentes, dimensionamento do sistema, especificações técnicas, relação de materiais e equipamentos, planilha orçamentária detalhada, memorial descritivo, composição dos serviços necessários à execução, cronograma físico-financeiro e demais documentos técnicos indispensáveis à futura contratação e execução da obra.",
+        "valor_maximo_centavos": 490000,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "16/2026",
+        "abertura": "2026-11-03",
+        "modalidade": "Pregão",
+        "situacao": "Andamento",
+        "objeto": "Aquisição de licenças de softwares e plataformas digitais especializadas para uso do Poder Legislativo de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 8566249,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "10/2026",
+        "abertura": "2026-10-30",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa GBB COMUNICAÇÃO LTDA, inscrita no CNPJ nº 53.856.831/0001-26, para a participação da Câmara Municipal de Maringá, no âmbito do projeto \"Câmara com Você\", no evento \"Estação Sustentável\" a ser realizado em duas etapas, ambas no mês de novembro do corrente ano, na cidade de Maringá-PR.",
+        "valor_maximo_centavos": 8000000,
+        "valor_homologado_centavos": 8000000
+      },
+      {
+        "numero": "15/2026",
+        "abertura": "2026-10-29",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa especializada para prestação de serviços de telecomunicações, mediante fornecimento, gerenciamento, monitoramento, manutenção e suporte de solução de rede sem fio (Wi-Fi) nas dependências do prédio da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 32289833,
+        "valor_homologado_centavos": 7800000
+      },
+      {
+        "numero": "1/2026",
+        "abertura": "2026-10-23",
+        "modalidade": "Credenciamento",
+        "situacao": "Andamento",
+        "objeto": "Contratação, mediante credenciamento, de profissionais da área de Comunicação Social, Publicidade e Propaganda, Marketing, Jornalismo ou áreas correlatas, para constituir Subcomissão Técnica, responsável pela análise e julgamento das propostas técnicas apresentadas no processo licitatório na modalidade Concorrência, tipo \"melhor técnica\", a ser promovida pela Câmara Municipal de Maringá, para contratação de agência de publicidade/propaganda para prestação de serviços publicitários, nos termos da Lei Federal n. 12.232/2010, combinada com a Lei Federal nº 14.133/2021.",
+        "valor_maximo_centavos": 850581,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "9/2026",
+        "abertura": "2026-10-15",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa ELEVADORES OTIS LTDA., inscrita no CNPJ nº 29.739.737/0033-90, para a prestação de serviços de manutenção preventiva e corretiva de 01 (um) elevador de passageiros instalado nas dependências da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 455000,
+        "valor_homologado_centavos": 455000
+      },
+      {
+        "numero": "14/2026",
+        "abertura": "2026-10-26",
+        "modalidade": "Pregão",
+        "situacao": "Nova Data de Abertura da Licitação",
+        "objeto": "Contratação de empresa especializada na prestação de serviços de agenciamento de viagens, compreendendo, conforme demanda da Câmara Municipal de Maringá, a pesquisa e apresentação de opções de transporte, cotação, reserva, emissão, remarcação, alteração, cancelamento, reembolso e demais providências relacionadas à aquisição de passagens aéreas nacionais e internacionais e passagens terrestres (rodoviárias), destinadas a Vereadores, servidores e colaboradores eventuais ou terceiros que necessitem de deslocamento para atividades de interesse institucional, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 15253146,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "13/2026",
+        "abertura": "2026-10-05",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Aquisição de equipamentos diversos, eletrodomésticos, eletroportáteis e acessórios, destinados ao uso interno da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 20101282,
+        "valor_homologado_centavos": 13276384
+      },
+      {
+        "numero": "11/2026",
+        "abertura": "2026-09-21",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa especializada na prestação de serviços de monitoramento de mídia e clipping jornalístico multimídia, abrangendo veículos televisivos, radiofônicos, mídia impressa, plataformas digitais, portais de notícias e redes sociais, com utilização de ferramentas de Inteligência Artificial para análise de sentimento, geração de resumos automáticos, alertas em tempo real e produção de relatórios analíticos, com foco na cobertura de conteúdos relacionados à Câmara Municipal de Maringá, aos seus membros no exercício da função parlamentar e a demais assuntos de interesse institucional, veiculados em mídias locais, regionais, estaduais e nacionais, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 6519924,
+        "valor_homologado_centavos": 2266800
+      },
+      {
+        "numero": "12/2026",
+        "abertura": "2026-09-18",
+        "modalidade": "Pregão",
+        "situacao": "Fracassada",
+        "objeto": "Registro de preços para eventual contratação de empresa para fornecimento e entrega, na sede no Poder Legislativo Municipal, do Diploma de Mérito alusivo à Comenda Dom Jaime Luiz Coelho, em atendimento à Seção de Cerimonial da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 3873476,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "8/2026",
+        "abertura": "2026-09-17",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa IAGP CORPORATIVO APLICADO EM GESTÃO PUBLICA LTDA, inscrita no CNPJ sob nº 51.684.924/0001-95, a fim de promover o curso  \"6º Simpósio de Licitações e Contratos Administrativos – O Futuro das Contratações Públicas\", a ser realizado no período de 23 a 25 de setembro de 2026, na cidade de Foz do Iguaçu/PR, visando o treinamento e aperfeiçoamento técnico da Diretora Executiva, Coordenadora do Departamento de Licitações e do membro da Comissão de Licitações.",
+        "valor_maximo_centavos": 1107000,
+        "valor_homologado_centavos": 1107000
+      },
+      {
+        "numero": "15/2026",
+        "abertura": "2026-08-18",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de prestação de serviços técnicos especializados de perícia técnica forense digital e audiovisual, por meio de perito especialista, destinada a certificar a autenticidade, integridade, histórico de edição e a cadeia de custódia de acervo eletrônico, referente a 02 (dois) arquivos de áudio, conforme especificações técnicas detalhadas e quesitos de verificação formulados pelas partes interessadas.",
+        "valor_maximo_centavos": 1098804,
+        "valor_homologado_centavos": 520000
+      },
+      {
+        "numero": "10/2026",
+        "abertura": "2026-08-17",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Aquisição de equipamentos profissionais para implantação/modernização da infraestrutura de transmissão da TV Legislativa Municipal em sinal aberto, contemplando solução completa de codificação, decodificação, captação, transporte, processamento, monitoramento e distribuição de áudio e vídeo digital em padrões SD, HD, Full HD, 4K, UHD e 8K para atendimento à Seção de Audiovisual da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 8741359,
+        "valor_homologado_centavos": 7654000
+      },
+      {
+        "numero": "7/2026",
+        "abertura": "2026-08-13",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa UNICURSOS CAPACITAÇÃO E TREINAMENTOS LTDA, inscrita no CNPJ nº 19.949.769/0001-89, a fim de promover o curso \"Gestão Patrimonial Aplicada no Setor Público\", a ser realizado no período de 19 a 20 de agosto de 2026, na cidade de Curitiba/PR, visando o treinamento e aperfeiçoamento técnico dos Diretores Administrativo e Financeiro, e dos servidores envolvidos com a Gestão e Comissão de Patrimônio da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 1295000,
+        "valor_homologado_centavos": 1295000
+      },
+      {
+        "numero": "14/2026",
+        "abertura": "2026-07-29",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa ou instituição de ensino para prestação de serviços técnicos especializados para o planejamento, a organização e o processamento de Concurso Público, destinado ao provimento de cargos efetivos no âmbito da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 58777000,
+        "valor_homologado_centavos": 58777000
+      },
+      {
+        "numero": "6/2026",
+        "abertura": "2026-07-24",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa IMPACTO SOLUÇÕES LTDA, inscrita no CNPJ nº 59.702.841/0001-93, a fim de promover o treinamento e aperfeiçoamento técnico e comportamental de 14 servidores da Câmara Municipal de Maringá em funções de liderança, coordenação e gestão, através da participação no Curso \"Congresso de Capacitação em Liderança\", a ser realizado no período de 29 a 30 de julho de 2026, com carga horária de 31 horas (16h presenciais + 15h EAD).",
+        "valor_maximo_centavos": 3248000,
+        "valor_homologado_centavos": 3248000
+      },
+      {
+        "numero": "5/2026",
+        "abertura": "2026-07-16",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa Portal Licitações Municipais Ltda., inscrita no CNPJ n. 30.592.834/0001-02, a fim de promover o treinamento e aperfeiçoamento técnico dos servidores da Câmara Municipal de Maringá envolvidos nas fases interna e externa dos processos licitatórios, fiscalização e gestão contratual, por meio de adoção de programa de capacitação continuada, visando garantir mais eficiência e segurança jurídica nas contratações públicas, na modalidade presencial e in company, a ser realizado nas dependências da Câmara Municipal de Maringá, com professores José Roberto Tiossi Jr e Luis Fernando Otero.",
+        "valor_maximo_centavos": 8400000,
+        "valor_homologado_centavos": 8400000
+      },
+      {
+        "numero": "13/2026",
+        "abertura": "2026-07-07",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Aquisição de material de expediente para suprir a demanda deste Poder Legislativo, conforme especificações técnicas definidas.",
+        "valor_maximo_centavos": 4131537,
+        "valor_homologado_centavos": 3435560
+      },
+      {
+        "numero": "8/2026",
+        "abertura": "2026-06-24",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Aquisição de materiais gráficos, impressos institucionais, papelaria oficial e publicações legislativas, destinados ao atendimento contínuo das atividades administrativas, legislativas, institucionais, educativas e de comunicação pública da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 18787920,
+        "valor_homologado_centavos": 8929300
+      },
+      {
+        "numero": "4/2026",
+        "abertura": "2026-06-22",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa IAGP - INSTITUTO APLICADO EM GESTÃO PÚBLICA LTDA, inscrita no CNPJ nº 32.651.451/0001-85, a fim de promover o curso \"A Atuação da Assessoria Jurídica e do Controle Interno nas Contratações Públicas\", a ser realizado no período de 24 a 25 de junho do corrente ano, em Curitiba/PR, visando o treinamento e aperfeiçoamento técnico da Diretora Executiva da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 229000,
+        "valor_homologado_centavos": 229000
+      },
+      {
+        "numero": "9/2026",
+        "abertura": "2026-06-22",
+        "modalidade": "Pregão",
+        "situacao": "Fracassada",
+        "objeto": "Registro de preços para eventual contratação de empresa para fornecimento e entrega, na sede no Poder Legislativo Municipal, do Diploma de Mérito alusivo à Comenda Dom Jaime Luiz Coelho, em atendimento à Seção de Cerimonial da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 3088900,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "3/2026",
+        "abertura": "2026-06-15",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa IAGP - INSTITUTO APLICADO EM GESTÃO PÚBLICA LTDA, inscrita no CNPJ nº 32.651.451/0001-85, a fim de promover o curso \"A Atuação da Assessoria Jurídica e do Controle Interno nas Contratações Públicas\", a ser realizado no período de 24 a 25 de junho do corrente ano, em Curitiba/PR, visando o treinamento e aperfeiçoamento técnico das servidoras da Procuradoria Jurídica da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 478000,
+        "valor_homologado_centavos": 478000
+      },
+      {
+        "numero": "7/2026",
+        "abertura": "2026-06-12",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Registro de preços para eventual contratação de empresa para fornecimento e entrega, na sede no Poder Legislativo Municipal, do Diploma do Mérito Religioso, em atendimento à Seção de Cerimonial da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 2289880,
+        "valor_homologado_centavos": 2272400
+      },
+      {
+        "numero": "12/2026",
+        "abertura": "2026-05-15",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa para a pintura do prédio alugado da Câmara Municipal de Maringá, localizado na Rua Padre Germano José Mayer, 565.",
+        "valor_maximo_centavos": 2720002,
+        "valor_homologado_centavos": 1894295
+      },
+      {
+        "numero": "11/2026",
+        "abertura": "2026-05-11",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa especializada para a limpeza completa do carpete do Plenário da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 1917713,
+        "valor_homologado_centavos": 876780
+      },
+      {
+        "numero": "6/2026",
+        "abertura": "2026-05-08",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Registro de preços para eventual contratação de empresa especializada para o fornecimento de medalhas/medalhões e placas metálicas para a concessão de condecorações/honrarias na forma da legislação pertinente, conforme modelos em anexo, em atendimento aos Vereadores do Poder Legislativo Municipal, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 20222866,
+        "valor_homologado_centavos": 8935200
+      },
+      {
+        "numero": "5/2026",
+        "abertura": "2026-05-05",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Aquisição de óculos de realidade virtual (VR), do tipo standalone, para utilização em ações institucionais, educativas e de inovação tecnológica da Câmara Municipal de Maringá, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 1924542,
+        "valor_homologado_centavos": 1613400
+      },
+      {
+        "numero": "10/2026",
+        "abertura": "2026-05-04",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa para fornecimento e entrega, na sede do Poder Legislativo Municipal, de material pedagógico para a Escola Legislativa, conforme especificações técnicas definidas.",
+        "valor_maximo_centavos": 1892500,
+        "valor_homologado_centavos": 1720000
+      },
+      {
+        "numero": "9/2026",
+        "abertura": "2026-04-24",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Aquisição de púlpito em acrílico transparente e backdrop portátil retrátil pantográfico, destinados ao uso em eventos institucionais, solenidades, coletivas de imprensa e ações externas da Câmara Municipal de Maringá, conforme especificações técnicas definidas.",
+        "valor_maximo_centavos": 1012826,
+        "valor_homologado_centavos": 128000
+      },
+      {
+        "numero": "8/2026",
+        "abertura": "2026-04-24",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa para o fornecimento de sistema informatizado para gestão de consignações em folha de pagamento dos servidores da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 1,
+        "valor_homologado_centavos": 1
+      },
+      {
+        "numero": "7/2026",
+        "abertura": "2026-04-13",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa especializada para prestação de serviços de produção de Tour Virtual Imersivo em 360 graus da Câmara Municipal de Maringá, incluindo captação de imagens panorâmicas, edição, produção de conteúdos audiovisuais e desenvolvimento de ambiente virtual interativo, bem como serviços complementares de hospedagem digital e manutenção evolutiva da solução, conforme especificações técnicas definidas.",
+        "valor_maximo_centavos": 5464160,
+        "valor_homologado_centavos": 2800000
+      },
+      {
+        "numero": "4/2026",
+        "abertura": "2026-04-08",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa especializada para fornecimento e entrega de arranjos florais destinados à ornamentação das Sessões Solenes realizadas pelo Poder Legislativo.",
+        "valor_maximo_centavos": 4910325,
+        "valor_homologado_centavos": 4542127
+      },
+      {
+        "numero": "2/2026",
+        "abertura": "2026-04-09",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa SOCIEDADE RURAL DE MARINGÁ, inscrita no CNPJ nº 77.935.567/0001-84, para a locação de espaço fisíco para um estande institucional de 125 m², dentro dos padrões estabelecidos pela organizadora do evento, incluindo infraestrutura, mobiliário e demais serviços necessários para garantir o pleno funcionamento do espaço à Câmara Municipal de Maringá, visando a participação institucional no evento 52ª Edição da EXPOINGÁ – Exposição Feira Agropecuária, Industrial e Comercial de Maringá, a ser realizada entre os dias 7 e 17 de maio de 2026, no Parque Internacional de Exposições Francisco Feio Ribeiro, Av. Colombo, 2186 – Vila Morangueira, no município de Maringá/PR.",
+        "valor_maximo_centavos": 15239000,
+        "valor_homologado_centavos": 15239000
+      },
+      {
+        "numero": "4/2026",
+        "abertura": "2026-04-07",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Aquisição de materiais gráficos impressos e elementos de comunicação visual de caráter institucional, destinados às ações institucionais da Câmara Municipal de Maringá durante a Expoingá 2026, conforme especificações e quantidades estabelecidas no Anexo I, parte integrante do presente Edital.",
+        "valor_maximo_centavos": 2376950,
+        "valor_homologado_centavos": 1640000
+      },
+      {
+        "numero": "6/2026",
+        "abertura": "2026-03-30",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa para desmontagem das divisórias dos gabinetes existentes no prédio alugado da Câmara Municipal de Maringá, localizado na Rua Padre Germano José Mayer, 565, e a execução e demolição de paredes em gesso acartonado (drywall) no prédio sede da Câmara Municipal de Maringá (Avenida Papa João XXIII, 239), com serviços complementares.",
+        "valor_maximo_centavos": 4316223,
+        "valor_homologado_centavos": 2813995
+      },
+      {
+        "numero": "5/2026",
+        "abertura": "2026-03-30",
+        "modalidade": "Dispensa",
+        "situacao": "Revogada",
+        "objeto": "Aquisição de materiais promocionais personalizados e elementos de comunicação visual, destinados às ações da Câmara Municipal de Maringá durante a Expoingá 2026.",
+        "valor_maximo_centavos": 3832312,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "3/2026",
+        "abertura": "2026-03-18",
+        "modalidade": "Dispensa",
+        "situacao": "Revogada",
+        "objeto": "Contratação de empresa especializada para prestação de serviços de Tour Virtual Imersivo em 360 graus do interior da Câmara Municipal de Maringá, por meio da captação de imagens panorâmicas em 360 graus, tratamento e edição profissional, produção de vídeos institucionais em 360 graus, bem como desenvolvimento de ambiente virtual interativo, conforme especificações técnicas definidas.",
+        "valor_maximo_centavos": 5618360,
+        "valor_homologado_centavos": 0
+      },
+      {
+        "numero": "2/2026",
+        "abertura": "2026-03-02",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa especializada para fornecimento de pedestais, mastros e bandeiras, visando suprir necessidade dos Gabinetes dos Vereadores e uso institucional deste Poder Legislativo.",
+        "valor_maximo_centavos": 5903822,
+        "valor_homologado_centavos": 3238200
+      },
+      {
+        "numero": "1/2026",
+        "abertura": "2026-02-12",
+        "modalidade": "Dispensa",
+        "situacao": "Homologada",
+        "objeto": " Aquisição de cabos de vídeo padrão DisplayPort, para ligação do segundo monitor aos computadores adquiridos através de Adesão a Ata de Registro de Preços, para uso pelos servidores da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 235755,
+        "valor_homologado_centavos": 191685
+      },
+      {
+        "numero": "3/2026",
+        "abertura": "2026-02-11",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa especializada na prestação do serviço de administração, gerenciamento, emissão e fornecimento de CARTÃO VALE-CULTURA para até 250 servidores da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 30300000,
+        "valor_homologado_centavos": 30000000
+      },
+      {
+        "numero": "1/2026",
+        "abertura": "2026-02-09",
+        "modalidade": "Inexigibilidade",
+        "situacao": "Homologada",
+        "objeto": "Contratação da empresa INSTITUTO NEGÓCIOS PÚBLICOS DO BRASIL ESTUDOS E PESQUISAS NA ADMINISTRAÇÃO PÚBLICA LTDA, inscrita no CNPJ nº 10.498.974/0002-81, a fim de promover o curso \"21.º Congresso Brasileiro de Pregoeiros e Agentes de Contratação\", a ser realizado no período de 23 a 26 de março do corrente ano, em Foz do Iguaçu/PR, visando o treinamento e aperfeiçoamento técnico dos Pregoeiros e da Coordenadora da Divisão de Licitações e Compras da Câmara Municipal de Maringá.",
+        "valor_maximo_centavos": 1100000,
+        "valor_homologado_centavos": 1100000
+      },
+      {
+        "numero": "2/2026",
+        "abertura": "2026-02-05",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa especializada para execução da ampliação da rede de lógica e elétrica da Câmara Municipal de Maringá, referente à área não abarcada pelas obras de ampliação do prédio, conforme projetos elaborados por empresa especializada (projetos, lista de materiais e memorial descritivo), para ampliação da infraestrutura de rede da Câmara Municipal.",
+        "valor_maximo_centavos": 8450539,
+        "valor_homologado_centavos": 5915377
+      },
+      {
+        "numero": "1/2026",
+        "abertura": "2026-02-03",
+        "modalidade": "Pregão",
+        "situacao": "Homologada",
+        "objeto": "Contratação de empresa para fornecimento, entrega e montagem de móveis de escritório, como mesas de trabalho, gaveteiros, armários e cadeiras, destinados ao atendimento do Gabinete da Presidente, dos gabinetes de vereadores e demais setores deste Poder Legislativo.",
+        "valor_maximo_centavos": 10595796,
+        "valor_homologado_centavos": 8570060
+      }
+    ]
+  },
+  "diarias": {
+    "registros": 79,
+    "total_centavos": 15550901,
+    "anulado_centavos": 1427254,
+    "destinos": {
+      "Curitiba": 47,
+      "Pato Branco": 1,
+      "EXTERIOR": 4,
+      "Foz do Iguaçu": 7,
+      "Brasília": 11,
+      "São Paulo": 5,
+      "Londrina": 4
+    },
+    "itens_sem_identificacao_pessoal": []
+  },
+  "fornecedores_pj": {
+    "quantidade": 100,
+    "itens": [
+      {
+        "empenhos": 223,
+        "empenhado_centavos": 3401928251,
+        "liquidado_centavos": 3401928251,
+        "pago_centavos": 3401928251,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-11-12",
+        "nome": "FOLHA DE PAGAMENTO - ADMINISTRACAO - CAMARA",
+        "cnpj": "77926509000194",
+        "exemplos": [
+          {
+            "empenho": "438/2026"
+          },
+          {
+            "empenho": "439/2026"
+          },
+          {
+            "empenho": "440/2026"
+          }
+        ],
+        "categoria_exibicao": "Obrigações de pessoal ou entidades públicas"
+      },
+      {
+        "empenhos": 78,
+        "empenhado_centavos": 343475939,
+        "liquidado_centavos": 343292537,
+        "pago_centavos": 342962828,
+        "anulado_centavos": 183402,
+        "a_pagar_centavos": 329709,
+        "ultima_data": "2026-11-19",
+        "nome": "INSS - INSTITUTO NACIONAL DO SEGURO SOCIAL - CAMARA",
+        "cnpj": "29979036000140",
+        "exemplos": [
+          {
+            "empenho": "54/2026"
+          },
+          {
+            "empenho": "512/2026"
+          },
+          {
+            "empenho": "358/2026"
+          }
+        ],
+        "categoria_exibicao": "Obrigações de pessoal ou entidades públicas"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 168691244,
+        "liquidado_centavos": 161031225,
+        "pago_centavos": 161031225,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 7660019,
+        "ultima_data": "2026-05-21",
+        "nome": "SOL PROPAGANDA LTDA",
+        "cnpj": "73289340000158",
+        "exemplos": [
+          {
+            "empenho": "368/2026"
+          },
+          {
+            "empenho": "63/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 25,
+        "empenhado_centavos": 154590614,
+        "liquidado_centavos": 154501979,
+        "pago_centavos": 154501979,
+        "anulado_centavos": 88635,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-10-28",
+        "nome": "MARINGA PREVIDENCIA - FUNDO EM REPARTIÇÃO",
+        "cnpj": "78074804000122",
+        "exemplos": [
+          {
+            "empenho": "366/2026"
+          },
+          {
+            "empenho": "494/2026"
+          },
+          {
+            "empenho": "495/2026"
+          }
+        ],
+        "categoria_exibicao": "Obrigações de pessoal ou entidades públicas"
+      },
+      {
+        "empenhos": 8,
+        "empenhado_centavos": 94212104,
+        "liquidado_centavos": 54327791,
+        "pago_centavos": 54327791,
+        "anulado_centavos": 29375244,
+        "a_pagar_centavos": 10509069,
+        "ultima_data": "2026-05-28",
+        "nome": "BRASILRECRUTA MAO DE OBRA LTDA",
+        "cnpj": "07593524000182",
+        "exemplos": [
+          {
+            "empenho": "22/2026"
+          },
+          {
+            "empenho": "378/2026"
+          },
+          {
+            "empenho": "380/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 12,
+        "empenhado_centavos": 100965400,
+        "liquidado_centavos": 50898295,
+        "pago_centavos": 50898295,
+        "anulado_centavos": 30378497,
+        "a_pagar_centavos": 19688608,
+        "ultima_data": "2026-10-20",
+        "nome": "ELOTECH GESTAO PUBLICA LTDA.",
+        "cnpj": "80896194000194",
+        "exemplos": [
+          {
+            "empenho": "72/2026"
+          },
+          {
+            "empenho": "73/2026"
+          },
+          {
+            "empenho": "70/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 57050882,
+        "liquidado_centavos": 43756928,
+        "pago_centavos": 43756928,
+        "anulado_centavos": 4153192,
+        "a_pagar_centavos": 9140762,
+        "ultima_data": "2026-06-26",
+        "nome": "STONE SEGURANCA LTDA",
+        "cnpj": "21715793000103",
+        "exemplos": [
+          {
+            "empenho": "477/2026"
+          },
+          {
+            "empenho": "65/2026"
+          },
+          {
+            "empenho": "456/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 4,
+        "empenhado_centavos": 52440694,
+        "liquidado_centavos": 33690855,
+        "pago_centavos": 33690855,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 18749839,
+        "ultima_data": "2026-09-02",
+        "nome": "RALT TECH CONSTRUÇÕES LTDA",
+        "cnpj": "22755004000112",
+        "exemplos": [
+          {
+            "empenho": "452/2026"
+          },
+          {
+            "empenho": "121/2026"
+          },
+          {
+            "empenho": "674/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 31100000,
+        "liquidado_centavos": 24190648,
+        "pago_centavos": 24190648,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 6909352,
+        "ultima_data": "2026-01-08",
+        "nome": "COPEL DISTRIBUIÇÃO S.A.",
+        "cnpj": "04368898000106",
+        "exemplos": [
+          {
+            "empenho": "3/2026"
+          },
+          {
+            "empenho": "35/2026"
+          },
+          {
+            "empenho": "4/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 28883119,
+        "liquidado_centavos": 20813017,
+        "pago_centavos": 20813017,
+        "anulado_centavos": 3768000,
+        "a_pagar_centavos": 4302102,
+        "ultima_data": "2026-10-08",
+        "nome": "VISUAL SISTEMAS ELETRONICOS LTDA",
+        "cnpj": "23921349000161",
+        "exemplos": [
+          {
+            "empenho": "8/2026"
+          },
+          {
+            "empenho": "750/2026"
+          },
+          {
+            "empenho": "749/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 25000000,
+        "liquidado_centavos": 15760000,
+        "pago_centavos": 15760000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 9240000,
+        "ultima_data": "2026-03-09",
+        "nome": "R6 INSTITUICAO DE PAGAMENTOS LTDA",
+        "cnpj": "03419902000155",
+        "exemplos": [
+          {
+            "empenho": "188/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 15239000,
+        "liquidado_centavos": 15239000,
+        "pago_centavos": 15239000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-04-17",
+        "nome": "SOCIEDADE RURAL DE MARINGÁ",
+        "cnpj": "77935567000184",
+        "exemplos": [
+          {
+            "empenho": "288/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 7,
+        "empenhado_centavos": 20834664,
+        "liquidado_centavos": 14551761,
+        "pago_centavos": 14551761,
+        "anulado_centavos": 6022452,
+        "a_pagar_centavos": 260451,
+        "ultima_data": "2026-08-25",
+        "nome": "DF TURISMO E EVENTOS LTDA",
+        "cnpj": "07832586000108",
+        "exemplos": [
+          {
+            "empenho": "33/2026"
+          },
+          {
+            "empenho": "32/2026"
+          },
+          {
+            "empenho": "199/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 18291024,
+        "liquidado_centavos": 13069431,
+        "pago_centavos": 13069431,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 5221593,
+        "ultima_data": "2026-02-12",
+        "nome": "ASSOCIAÇÃO BENEFICENTE BOM SAMARITANO",
+        "cnpj": "04792670000149",
+        "exemplos": [
+          {
+            "empenho": "140/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 27874908,
+        "liquidado_centavos": 11132927,
+        "pago_centavos": 11132927,
+        "anulado_centavos": 11821566,
+        "a_pagar_centavos": 4920415,
+        "ultima_data": "2026-10-29",
+        "nome": "VEHLOR LTDA",
+        "cnpj": "32495373000177",
+        "exemplos": [
+          {
+            "empenho": "584/2026"
+          },
+          {
+            "empenho": "25/2026"
+          },
+          {
+            "empenho": "795/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 23827632,
+        "liquidado_centavos": 11115987,
+        "pago_centavos": 11115987,
+        "anulado_centavos": 8422050,
+        "a_pagar_centavos": 4289595,
+        "ultima_data": "2026-07-31",
+        "nome": "PST VIGILANCIA E SEGURANCA LTDA",
+        "cnpj": "40804602000116",
+        "exemplos": [
+          {
+            "empenho": "261/2026"
+          },
+          {
+            "empenho": "585/2026"
+          },
+          {
+            "empenho": "51/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 20992804,
+        "liquidado_centavos": 10205392,
+        "pago_centavos": 10205392,
+        "anulado_centavos": 5759280,
+        "a_pagar_centavos": 5028132,
+        "ultima_data": "2026-09-16",
+        "nome": "RHEITOR SERVICOS LTDA",
+        "cnpj": "50685172000114",
+        "exemplos": [
+          {
+            "empenho": "26/2026"
+          },
+          {
+            "empenho": "337/2026"
+          },
+          {
+            "empenho": "699/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 8700280,
+        "liquidado_centavos": 7428472,
+        "pago_centavos": 7428472,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 1271808,
+        "ultima_data": "2026-10-14",
+        "nome": "ALPHAVIAS ENGENHARIA LTDA",
+        "cnpj": "35190568000105",
+        "exemplos": [
+          {
+            "empenho": "75/2026"
+          },
+          {
+            "empenho": "540/2026"
+          },
+          {
+            "empenho": "755/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 5,
+        "empenhado_centavos": 13300754,
+        "liquidado_centavos": 7385377,
+        "pago_centavos": 7385377,
+        "anulado_centavos": 5915377,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-05-29",
+        "nome": "INSTALFLEX SERVICOS E INSTALACOES ELETRICAS LTDA",
+        "cnpj": "04523065000172",
+        "exemplos": [
+          {
+            "empenho": "410/2026"
+          },
+          {
+            "empenho": "409/2026"
+          },
+          {
+            "empenho": "407/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 5882800,
+        "liquidado_centavos": 5882800,
+        "pago_centavos": 5882800,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-01-28",
+        "nome": "VITOR AUGUSTO DIAS SILVA",
+        "cnpj": "48947862000152",
+        "exemplos": [
+          {
+            "empenho": "122/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 8029268,
+        "liquidado_centavos": 5712317,
+        "pago_centavos": 5712317,
+        "anulado_centavos": 570000,
+        "a_pagar_centavos": 1746951,
+        "ultima_data": "2026-10-22",
+        "nome": "FUNDACAO CULTURAL NOSSA SENHORA DE LOURDES DE MARINGA",
+        "cnpj": "80289184000190",
+        "exemplos": [
+          {
+            "empenho": "34/2026"
+          },
+          {
+            "empenho": "773/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 6220100,
+        "liquidado_centavos": 5450100,
+        "pago_centavos": 5450100,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 770000,
+        "ultima_data": "2026-01-05",
+        "nome": "NEXUS LICITACOES LTDA",
+        "cnpj": "52620483000120",
+        "exemplos": [
+          {
+            "empenho": "14/2026"
+          },
+          {
+            "empenho": "10/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 12527381,
+        "liquidado_centavos": 5449593,
+        "pago_centavos": 5449593,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 7077788,
+        "ultima_data": "2026-06-16",
+        "nome": "SANEPAR - COMPANHIA DE SANEAMENTO DO PARANA",
+        "cnpj": "76484013000145",
+        "exemplos": [
+          {
+            "empenho": "448/2026"
+          },
+          {
+            "empenho": "7/2026"
+          },
+          {
+            "empenho": "5/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 5227410,
+        "liquidado_centavos": 5227410,
+        "pago_centavos": 5227410,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-10-08",
+        "nome": "LÍDER NOTEBOOKS COMÉRCIO E SERVIÇOS LTDA",
+        "cnpj": "12477490000281",
+        "exemplos": [
+          {
+            "empenho": "751/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 6997780,
+        "liquidado_centavos": 5190151,
+        "pago_centavos": 5190151,
+        "anulado_centavos": 19560,
+        "a_pagar_centavos": 1788069,
+        "ultima_data": "2026-03-12",
+        "nome": "VOGEL SOLUCOES EM TELECOMUNICACOES E INFORMATICA S.A.",
+        "cnpj": "05872814003660",
+        "exemplos": [
+          {
+            "empenho": "18/2026"
+          },
+          {
+            "empenho": "23/2026"
+          },
+          {
+            "empenho": "198/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 7478900,
+        "liquidado_centavos": 4739000,
+        "pago_centavos": 4739000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 2739900,
+        "ultima_data": "2026-04-29",
+        "nome": "ROBERTO FERREIRA JUNIOR IMUNIZACAO",
+        "cnpj": "23887319000186",
+        "exemplos": [
+          {
+            "empenho": "69/2026"
+          },
+          {
+            "empenho": "326/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 4580000,
+        "liquidado_centavos": 4580000,
+        "pago_centavos": 4580000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-02-18",
+        "nome": "FRANKE CADEIRAS LTDA",
+        "cnpj": "47535889000175",
+        "exemplos": [
+          {
+            "empenho": "145/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 8400000,
+        "liquidado_centavos": 4200000,
+        "pago_centavos": 4200000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 4200000,
+        "ultima_data": "2026-07-24",
+        "nome": "Portal Licitções Municipais Ltda.",
+        "cnpj": "30592834000102",
+        "exemplos": [
+          {
+            "empenho": "554/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 3990060,
+        "liquidado_centavos": 3990060,
+        "pago_centavos": 3990060,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-02-18",
+        "nome": "TRATTO MOVEIS LTDA.",
+        "cnpj": "42855152000116",
+        "exemplos": [
+          {
+            "empenho": "146/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 7525989,
+        "liquidado_centavos": 3721500,
+        "pago_centavos": 3721500,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 3804489,
+        "ultima_data": "2026-11-12",
+        "nome": "EXTREME DIGITAL CONSULTORIA E REPRESENTAÇÕES LTDA",
+        "cnpj": "14139773000168",
+        "exemplos": [
+          {
+            "empenho": "13/2026"
+          },
+          {
+            "empenho": "817/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 9469504,
+        "liquidado_centavos": 3710748,
+        "pago_centavos": 3710748,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 5758756,
+        "ultima_data": "2026-06-08",
+        "nome": "ESQUINA DO PÃO PANIFICADORA LTDA",
+        "cnpj": "37578393000125",
+        "exemplos": [
+          {
+            "empenho": "17/2026"
+          },
+          {
+            "empenho": "423/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 7795549,
+        "liquidado_centavos": 3540852,
+        "pago_centavos": 3540852,
+        "anulado_centavos": 28493,
+        "a_pagar_centavos": 4226204,
+        "ultima_data": "2026-09-01",
+        "nome": "M. DE SOUZA CONDICIONADORES DE AR LTDA",
+        "cnpj": "36120867000128",
+        "exemplos": [
+          {
+            "empenho": "28/2026"
+          },
+          {
+            "empenho": "669/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 3248000,
+        "liquidado_centavos": 3248000,
+        "pago_centavos": 3248000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-07-24",
+        "nome": "IMPACTO SOLUÇÕES LTDA",
+        "cnpj": "59702841000193",
+        "exemplos": [
+          {
+            "empenho": "581/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 3238200,
+        "liquidado_centavos": 3238200,
+        "pago_centavos": 3238200,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-03-12",
+        "nome": "FÁBRICA DAS BANDEIRAS IND. COM. DE CONFECÇÕES SERVIÇOS E ACESSÓRIOS LTDA",
+        "cnpj": "04884221000120",
+        "exemplos": [
+          {
+            "empenho": "197/2026"
+          },
+          {
+            "empenho": "196/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 3200000,
+        "liquidado_centavos": 3200000,
+        "pago_centavos": 3200000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-09-17",
+        "nome": "65.033.784 VICTOR RODRIGO VIEGAS DE SIQUEIRA",
+        "cnpj": "65033784000108",
+        "exemplos": [
+          {
+            "empenho": "703/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 3121021,
+        "liquidado_centavos": 3121021,
+        "pago_centavos": 3121021,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-06-22",
+        "nome": "59.909.566 AILTON ROSA",
+        "cnpj": "59909566000183",
+        "exemplos": [
+          {
+            "empenho": "367/2026"
+          },
+          {
+            "empenho": "454/2026"
+          },
+          {
+            "empenho": "424/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 24062696,
+        "liquidado_centavos": 3120800,
+        "pago_centavos": 3120800,
+        "anulado_centavos": 20941896,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-07-09",
+        "nome": "HOSPITAL BOM SAMARITANO DE MARINGA LTDA",
+        "cnpj": "23876304000112",
+        "exemplos": [
+          {
+            "empenho": "525/2026"
+          },
+          {
+            "empenho": "1/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 2813995,
+        "liquidado_centavos": 2813995,
+        "pago_centavos": 2813995,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-04-10",
+        "nome": "FR DRYWALL INSTALADORA E DISTRIBUIDORA LTDA",
+        "cnpj": "10204981000142",
+        "exemplos": [
+          {
+            "empenho": "276/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 2800000,
+        "liquidado_centavos": 2800000,
+        "pago_centavos": 2800000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-04-28",
+        "nome": "AMILTON FERREIRA DE LIMA JUNIOR 04171517990",
+        "cnpj": "28643002000118",
+        "exemplos": [
+          {
+            "empenho": "300/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 2710880,
+        "liquidado_centavos": 2710880,
+        "pago_centavos": 2710880,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-03-02",
+        "nome": "NTI BRASIL SOLUCOES DIGITAIS LTDA",
+        "cnpj": "66582784000111",
+        "exemplos": [
+          {
+            "empenho": "176/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 6000000,
+        "liquidado_centavos": 2574000,
+        "pago_centavos": 2574000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 3426000,
+        "ultima_data": "2026-02-11",
+        "nome": "LG DA SILVA ACESSIBILIDADE LTDA",
+        "cnpj": "34689741000143",
+        "exemplos": [
+          {
+            "empenho": "138/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 5093946,
+        "liquidado_centavos": 2490000,
+        "pago_centavos": 2490000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 2603946,
+        "ultima_data": "2026-11-12",
+        "nome": "AI SIM COMERCIO DE PRODUTOS DE INFORMATICA LTDA",
+        "cnpj": "44922438000100",
+        "exemplos": [
+          {
+            "empenho": "11/2026"
+          },
+          {
+            "empenho": "816/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 5761125,
+        "liquidado_centavos": 2337125,
+        "pago_centavos": 2337125,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 3424000,
+        "ultima_data": "2026-11-12",
+        "nome": "KF COMERCIO DE PRODUTOS DE LIMPEZA LTDA",
+        "cnpj": "29755673000133",
+        "exemplos": [
+          {
+            "empenho": "67/2026"
+          },
+          {
+            "empenho": "808/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 4,
+        "empenhado_centavos": 4523682,
+        "liquidado_centavos": 2193947,
+        "pago_centavos": 2193947,
+        "anulado_centavos": 895000,
+        "a_pagar_centavos": 1434735,
+        "ultima_data": "2026-07-07",
+        "nome": "SUPER ACESSO INFORMAÇÃO LTDA.",
+        "cnpj": "09274824000124",
+        "exemplos": [
+          {
+            "empenho": "516/2026"
+          },
+          {
+            "empenho": "460/2026"
+          },
+          {
+            "empenho": "136/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 4786848,
+        "liquidado_centavos": 2165000,
+        "pago_centavos": 2165000,
+        "anulado_centavos": 1905300,
+        "a_pagar_centavos": 716548,
+        "ultima_data": "2026-10-01",
+        "nome": "INT -  SOLUCOES PARA RECICLAGEM LTDA - ME",
+        "cnpj": "07703592000157",
+        "exemplos": [
+          {
+            "empenho": "211/2026"
+          },
+          {
+            "empenho": "12/2026"
+          },
+          {
+            "empenho": "736/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 2132800,
+        "liquidado_centavos": 2132800,
+        "pago_centavos": 2132800,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-06-16",
+        "nome": "OLIVEIRA PRESENTES E UTILIDADES LTDA",
+        "cnpj": "52685521000123",
+        "exemplos": [
+          {
+            "empenho": "447/2026"
+          },
+          {
+            "empenho": "339/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1997500,
+        "liquidado_centavos": 1997500,
+        "pago_centavos": 1997500,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-01-05",
+        "nome": "DECORINTER INDUSTRIA E COMERCIO LTDA - ME",
+        "cnpj": "03884308000135",
+        "exemplos": [
+          {
+            "empenho": "9/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 2269804,
+        "liquidado_centavos": 1906869,
+        "pago_centavos": 1906869,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 362935,
+        "ultima_data": "2026-07-17",
+        "nome": "PARANA EQUIPAMENTOS PARA LIMPEZA PROFISSIONAL LTDA",
+        "cnpj": "05928124000155",
+        "exemplos": [
+          {
+            "empenho": "541/2026"
+          },
+          {
+            "empenho": "78/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 4542127,
+        "liquidado_centavos": 1836179,
+        "pago_centavos": 1836179,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 2705948,
+        "ultima_data": "2026-04-23",
+        "nome": "DANIELE DIONISIO MENDES FLORES E FESTAS",
+        "cnpj": "30851634000119",
+        "exemplos": [
+          {
+            "empenho": "299/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 7630067,
+        "liquidado_centavos": 1812780,
+        "pago_centavos": 1812780,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 5817287,
+        "ultima_data": "2026-06-23",
+        "nome": "66.905.250 JOSÉ BORSALLI",
+        "cnpj": "66905250000189",
+        "exemplos": [
+          {
+            "empenho": "457/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1613400,
+        "liquidado_centavos": 1613400,
+        "pago_centavos": 1613400,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-05-08",
+        "nome": "KASA KOMPLETA COMERCIO E SERVICOS LTDA",
+        "cnpj": "04932770000123",
+        "exemplos": [
+          {
+            "empenho": "340/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 4454000,
+        "liquidado_centavos": 1534000,
+        "pago_centavos": 1534000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 2920000,
+        "ultima_data": "2026-09-29",
+        "nome": "59.613.718 MILENA MELO DE MIRANDA",
+        "cnpj": "59613718000104",
+        "exemplos": [
+          {
+            "empenho": "733/2026"
+          },
+          {
+            "empenho": "735/2026"
+          },
+          {
+            "empenho": "734/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 2252800,
+        "liquidado_centavos": 1433600,
+        "pago_centavos": 1433600,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 819200,
+        "ultima_data": "2026-08-13",
+        "nome": "COLIBRI PAPEIS LTDA",
+        "cnpj": "25390687000140",
+        "exemplos": [
+          {
+            "empenho": "612/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 5,
+        "empenhado_centavos": 1572150,
+        "liquidado_centavos": 1383400,
+        "pago_centavos": 1383400,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 188750,
+        "ultima_data": "2026-09-10",
+        "nome": "INDUSTRIA E COMERCIO DE PLACAS BULMARPLAC LTDA",
+        "cnpj": "80577232000146",
+        "exemplos": [
+          {
+            "empenho": "517/2026"
+          },
+          {
+            "empenho": "559/2026"
+          },
+          {
+            "empenho": "53/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 3039572,
+        "liquidado_centavos": 1352500,
+        "pago_centavos": 1299509,
+        "anulado_centavos": 806898,
+        "a_pagar_centavos": 933165,
+        "ultima_data": "2026-04-06",
+        "nome": "CATEDRAL EDITORA, COMUNICACAO, PROPAGANDA E PESQUISAS EIRELI",
+        "cnpj": "34263987000159",
+        "exemplos": [
+          {
+            "empenho": "31/2026"
+          },
+          {
+            "empenho": "249/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1295000,
+        "liquidado_centavos": 1295000,
+        "pago_centavos": 1295000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-08-17",
+        "nome": "UNICURSOS CAPACITAÇÃO E TREINAMENTOS LTDA",
+        "cnpj": "19949769000189",
+        "exemplos": [
+          {
+            "empenho": "616/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1275000,
+        "liquidado_centavos": 1275000,
+        "pago_centavos": 1275000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-07-20",
+        "nome": "NP TECNOLOGIA E GESTAO DE DADOS LTDA",
+        "cnpj": "07797967000195",
+        "exemplos": [
+          {
+            "empenho": "542/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 14681240,
+        "liquidado_centavos": 1219873,
+        "pago_centavos": 1219873,
+        "anulado_centavos": 13461367,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-03-17",
+        "nome": "JOSE BORSALLI 35059265900",
+        "cnpj": "21132593000110",
+        "exemplos": [
+          {
+            "empenho": "205/2026"
+          },
+          {
+            "empenho": "48/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1182760,
+        "liquidado_centavos": 1182760,
+        "pago_centavos": 1182760,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-08-24",
+        "nome": "HELPFIX ATACADO DE PAPELARIA LTDA",
+        "cnpj": "20992564000165",
+        "exemplos": [
+          {
+            "empenho": "633/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1107000,
+        "liquidado_centavos": 1107000,
+        "pago_centavos": 1107000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-09-17",
+        "nome": "IAGP CORPORATIVO APLICADO EM GESTAO PUBLICA LTDA",
+        "cnpj": "51684924000195",
+        "exemplos": [
+          {
+            "empenho": "702/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1100000,
+        "liquidado_centavos": 1100000,
+        "pago_centavos": 1100000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-02-10",
+        "nome": "INSTITUTO NEGOCIOS PUBLICOS DO BRASIL - ESTUDOS E PESQUISAS",
+        "cnpj": "10498974000281",
+        "exemplos": [
+          {
+            "empenho": "137/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 6,
+        "empenhado_centavos": 3559270,
+        "liquidado_centavos": 1083702,
+        "pago_centavos": 1083702,
+        "anulado_centavos": 1325984,
+        "a_pagar_centavos": 1149584,
+        "ultima_data": "2026-07-24",
+        "nome": "R&M ALIMENTOS EIRELI",
+        "cnpj": "29421808000124",
+        "exemplos": [
+          {
+            "empenho": "77/2026"
+          },
+          {
+            "empenho": "500/2026"
+          },
+          {
+            "empenho": "499/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 3497000,
+        "liquidado_centavos": 1072600,
+        "pago_centavos": 1072600,
+        "anulado_centavos": 2424400,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-01-05",
+        "nome": "CALGAN EDITORA GRÁFICA LTDA",
+        "cnpj": "04261548000146",
+        "exemplos": [
+          {
+            "empenho": "20/2026"
+          },
+          {
+            "empenho": "19/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1947240,
+        "liquidado_centavos": 973620,
+        "pago_centavos": 973620,
+        "anulado_centavos": 973620,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-01-13",
+        "nome": "F. A. L. EVENTOS LTDA - ME",
+        "cnpj": "16993356000103",
+        "exemplos": [
+          {
+            "empenho": "49/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 925965,
+        "liquidado_centavos": 925965,
+        "pago_centavos": 925965,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-10-06",
+        "nome": "TORINO INFORMATICA LTDA",
+        "cnpj": "03619767000515",
+        "exemplos": [
+          {
+            "empenho": "745/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 707000,
+        "liquidado_centavos": 707000,
+        "pago_centavos": 707000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-06-22",
+        "nome": "IAGP INSTITUTO APLICADO EM GESTAO PUBLICA LTDA",
+        "cnpj": "32651451000185",
+        "exemplos": [
+          {
+            "empenho": "446/2026"
+          },
+          {
+            "empenho": "453/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 7,
+        "empenhado_centavos": 747500,
+        "liquidado_centavos": 668000,
+        "pago_centavos": 668000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 79500,
+        "ultima_data": "2026-11-12",
+        "nome": "METAL GRAPH GRAVAÇÕES EM METAIS LTDA.",
+        "cnpj": "05633047000106",
+        "exemplos": [
+          {
+            "empenho": "524/2026"
+          },
+          {
+            "empenho": "280/2026"
+          },
+          {
+            "empenho": "621/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 1143704,
+        "liquidado_centavos": 619580,
+        "pago_centavos": 619580,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 524124,
+        "ultima_data": "2026-07-29",
+        "nome": "SOLUCAO NETWORK PROVEDOR LTDA",
+        "cnpj": "12693643000147",
+        "exemplos": [
+          {
+            "empenho": "2/2026"
+          },
+          {
+            "empenho": "583/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 1229028,
+        "liquidado_centavos": 547927,
+        "pago_centavos": 547927,
+        "anulado_centavos": 54552,
+        "a_pagar_centavos": 626549,
+        "ultima_data": "2026-09-08",
+        "nome": "DB3 SERVIÇOS DE TELECOMUNICAÇÕES S.A",
+        "cnpj": "41644220000135",
+        "exemplos": [
+          {
+            "empenho": "79/2026"
+          },
+          {
+            "empenho": "684/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 520000,
+        "liquidado_centavos": 520000,
+        "pago_centavos": 520000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-08-25",
+        "nome": "OAS PERÍCIAS FORENSES LTDA",
+        "cnpj": "31618367000105",
+        "exemplos": [
+          {
+            "empenho": "636/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 3,
+        "empenhado_centavos": 5798600,
+        "liquidado_centavos": 445500,
+        "pago_centavos": 445500,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 5353100,
+        "ultima_data": "2026-07-14",
+        "nome": "EDITORA PROGRESSIVA LTDA",
+        "cnpj": "04772585000119",
+        "exemplos": [
+          {
+            "empenho": "533/2026"
+          },
+          {
+            "empenho": "534/2026"
+          },
+          {
+            "empenho": "535/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 429850,
+        "liquidado_centavos": 429850,
+        "pago_centavos": 429850,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-01-13",
+        "nome": "KELLY A D S MINIOLI COMERCIO DE PRODUTOS ME",
+        "cnpj": "21782356000102",
+        "exemplos": [
+          {
+            "empenho": "64/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 1018498,
+        "liquidado_centavos": 412500,
+        "pago_centavos": 412500,
+        "anulado_centavos": 3346,
+        "a_pagar_centavos": 602652,
+        "ultima_data": "2026-01-05",
+        "nome": "LIGGA TELECOMUNICAÇÕES S.A",
+        "cnpj": "04368865000166",
+        "exemplos": [
+          {
+            "empenho": "16/2026"
+          },
+          {
+            "empenho": "15/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 1962598,
+        "liquidado_centavos": 316274,
+        "pago_centavos": 316274,
+        "anulado_centavos": 871998,
+        "a_pagar_centavos": 774326,
+        "ultima_data": "2026-04-10",
+        "nome": "54.042.913 CELSO MATIAS",
+        "cnpj": "54042913000108",
+        "exemplos": [
+          {
+            "empenho": "279/2026"
+          },
+          {
+            "empenho": "50/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 316236,
+        "liquidado_centavos": 316236,
+        "pago_centavos": 316236,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-07-14",
+        "nome": "PORTO SEGURO CIA DE SEGUROS GERAIS",
+        "cnpj": "61198164000160",
+        "exemplos": [
+          {
+            "empenho": "68/2026"
+          },
+          {
+            "empenho": "532/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 4,
+        "empenhado_centavos": 755614,
+        "liquidado_centavos": 315698,
+        "pago_centavos": 315698,
+        "anulado_centavos": 37862,
+        "a_pagar_centavos": 402054,
+        "ultima_data": "2026-07-08",
+        "nome": "CHR COMERCIO DE COMBUSTIVEIS LTDA",
+        "cnpj": "26517039000174",
+        "exemplos": [
+          {
+            "empenho": "523/2026"
+          },
+          {
+            "empenho": "76/2026"
+          },
+          {
+            "empenho": "275/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 276000,
+        "liquidado_centavos": 276000,
+        "pago_centavos": 276000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-01-05",
+        "nome": "I. M. O. SILVA - MUDANCAS",
+        "cnpj": "11658955000157",
+        "exemplos": [
+          {
+            "empenho": "24/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 250000,
+        "liquidado_centavos": 250000,
+        "pago_centavos": 250000,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-04-17",
+        "nome": "28.738.526 DEBORA DA ROSA LEDEL",
+        "cnpj": "28738526000192",
+        "exemplos": [
+          {
+            "empenho": "286/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 191685,
+        "liquidado_centavos": 191685,
+        "pago_centavos": 191685,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-03-05",
+        "nome": "JR & FILHOS COMÉRCIO DE ALIMENTOS LTDA",
+        "cnpj": "40485357000121",
+        "exemplos": [
+          {
+            "empenho": "180/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 160667,
+        "liquidado_centavos": 160667,
+        "pago_centavos": 160667,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-08-26",
+        "nome": "GMO GLOBALSIGN SOLUCOES EM TECNOLOGIA S/A",
+        "cnpj": "24752571000140",
+        "exemplos": [
+          {
+            "empenho": "640/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 232706,
+        "liquidado_centavos": 153953,
+        "pago_centavos": 153953,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 78753,
+        "ultima_data": "2026-06-23",
+        "nome": "RL SANTOS DOBIX DEDETIZADORA",
+        "cnpj": "27762719000116",
+        "exemplos": [
+          {
+            "empenho": "27/2026"
+          },
+          {
+            "empenho": "455/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 5,
+        "empenhado_centavos": 153041,
+        "liquidado_centavos": 153041,
+        "pago_centavos": 153041,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-09-04",
+        "nome": "FUNDO DA JUSTIÇA DO PODER JUDICIARIO DO ESTADO DO PARANA",
+        "cnpj": "15303222000150",
+        "exemplos": [
+          {
+            "empenho": "449/2026"
+          },
+          {
+            "empenho": "91/2026"
+          },
+          {
+            "empenho": "677/2026"
+          }
+        ],
+        "categoria_exibicao": "Obrigações de pessoal ou entidades públicas"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 146220,
+        "liquidado_centavos": 146220,
+        "pago_centavos": 146220,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-08-26",
+        "nome": "57.429.093 MARIA APARECIDA RIBEIRO DE BRITO ROCHA",
+        "cnpj": "57429093000191",
+        "exemplos": [
+          {
+            "empenho": "639/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 293722,
+        "liquidado_centavos": 128874,
+        "pago_centavos": 128874,
+        "anulado_centavos": 11000,
+        "a_pagar_centavos": 153848,
+        "ultima_data": "2026-03-27",
+        "nome": "EXTINTORES MARINGAENSE LTDA - EPP",
+        "cnpj": "84981877000109",
+        "exemplos": [
+          {
+            "empenho": "225/2026"
+          },
+          {
+            "empenho": "52/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 116244,
+        "liquidado_centavos": 116244,
+        "pago_centavos": 116244,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-05-28",
+        "nome": "GENTE SEGURADORA SA",
+        "cnpj": "90180605000102",
+        "exemplos": [
+          {
+            "empenho": "406/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 9,
+        "empenhado_centavos": 98679,
+        "liquidado_centavos": 98679,
+        "pago_centavos": 98679,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-09-28",
+        "nome": "CIDADE VERDE TRANSPORTE RODOVIARIO LTDA.",
+        "cnpj": "72073117000106",
+        "exemplos": [
+          {
+            "empenho": "497/2026"
+          },
+          {
+            "empenho": "404/2026"
+          },
+          {
+            "empenho": "227/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1257600,
+        "liquidado_centavos": 76155,
+        "pago_centavos": 76155,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 1181445,
+        "ultima_data": "2026-01-08",
+        "nome": "ECT- Empresa Brasileira de Correios e Telegrafos",
+        "cnpj": "34028316002076",
+        "exemplos": [
+          {
+            "empenho": "30/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 9,
+        "empenhado_centavos": 61318,
+        "liquidado_centavos": 61318,
+        "pago_centavos": 61318,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-09-28",
+        "nome": "TRANSPORTE COL.CID.CANCAO LTDA",
+        "cnpj": "79118311000100",
+        "exemplos": [
+          {
+            "empenho": "498/2026"
+          },
+          {
+            "empenho": "405/2026"
+          },
+          {
+            "empenho": "93/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 2,
+        "empenhado_centavos": 49400,
+        "liquidado_centavos": 49400,
+        "pago_centavos": 49400,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 0,
+        "ultima_data": "2026-09-16",
+        "nome": "A2 COMÉRCIO E SERVIÇOS LTDA",
+        "cnpj": "55160542000113",
+        "exemplos": [
+          {
+            "empenho": "668/2026"
+          },
+          {
+            "empenho": "698/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 174209,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 174209,
+        "ultima_data": "2026-01-13",
+        "nome": "WEBJUR PROCESSAMENTO DE DADOS LTDA. - EPP",
+        "cnpj": "09400465000104",
+        "exemplos": [
+          {
+            "empenho": "66/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1390000,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 1390000,
+        "ultima_data": "2026-04-17",
+        "nome": "DFS IMPRESSAO GRAFICA LTDA EIRELI - ME",
+        "cnpj": "28097727000158",
+        "exemplos": [
+          {
+            "empenho": "287/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1964700,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 1964700,
+        "ultima_data": "2026-07-24",
+        "nome": "SOLANGE VIDAL MANN LTDA",
+        "cnpj": "41244330000100",
+        "exemplos": [
+          {
+            "empenho": "560/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 128000,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 128000,
+        "ultima_data": "2026-05-06",
+        "nome": "LD BRAZIL COMERCIO E SERVICOS",
+        "cnpj": "48186184000152",
+        "exemplos": [
+          {
+            "empenho": "338/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 1166000,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 1166000,
+        "ultima_data": "2026-07-29",
+        "nome": "RB COMUNICAÇÃO VISUAL LTDA",
+        "cnpj": "27232288000186",
+        "exemplos": [
+          {
+            "empenho": "582/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 58777000,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 58777000,
+        "ultima_data": "2026-08-19",
+        "nome": "FUNDAÇÃO PARA O DESENVOLVIMENTO DO ENSINO E DA PESQUISA DO DIREITO – FADEP",
+        "cnpj": "24206696000175",
+        "exemplos": [
+          {
+            "empenho": "618/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 455000,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 455000,
+        "ultima_data": "2026-11-12",
+        "nome": "ELEVADORES OTIS LTDA",
+        "cnpj": "29739737003390",
+        "exemplos": [
+          {
+            "empenho": "807/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 207951,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 207951,
+        "ultima_data": "2026-11-12",
+        "nome": "REFINAR EMPRESARIAL ASSESSORIA EM CONTROLES ADMINISTRATIVOS LTDA",
+        "cnpj": "52386933000162",
+        "exemplos": [
+          {
+            "empenho": "818/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 8000000,
+        "liquidado_centavos": 4000000,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 8000000,
+        "ultima_data": "2026-11-12",
+        "nome": "GBB COMUNICAÇÃO LTDA",
+        "cnpj": "53856831000126",
+        "exemplos": [
+          {
+            "empenho": "815/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 39477,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 39477,
+        "ultima_data": "2026-11-12",
+        "nome": "62.628.807 JOAO PAULO DE JESUS DOS SANTOS",
+        "cnpj": "62628807000120",
+        "exemplos": [
+          {
+            "empenho": "819/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      },
+      {
+        "empenhos": 1,
+        "empenhado_centavos": 148000,
+        "liquidado_centavos": 0,
+        "pago_centavos": 0,
+        "anulado_centavos": 0,
+        "a_pagar_centavos": 148000,
+        "ultima_data": "2026-11-12",
+        "nome": "WP COSTA COMERCIO E SERVICOS DE ELETRONICOS",
+        "cnpj": "33314924000111",
+        "exemplos": [
+          {
+            "empenho": "813/2026"
+          }
+        ],
+        "categoria_exibicao": "Pessoa jurídica identificada por CNPJ"
+      }
+    ]
+  },
+  "avisos": [
+    "Não somar empenhos, liquidações, contratos, licitações e diárias: podem representar a mesma despesa em fases diferentes.",
+    "O campo Valor Pago foi extraído da listagem de empenhos e é apresentado como valor informado pelo portal, não como comprovante bancário.",
+    "A soma dos fornecedores considera apenas beneficiários identificados por CNPJ na planilha de empenhos; não representa todo o gasto da Câmara.",
+    "Contratos com vigência ou aditivos de outros períodos podem aparecer no recorte de 2026; total contratado não equivale a desembolso.",
+    "Dados de pessoas físicas, CPF e remuneração individual não são publicados neste conjunto agregado."
+  ]
+}

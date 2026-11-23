@@ -1,0 +1,268 @@
+{
+  "versao": 1,
+  "data_corte": "2026-11-20",
+  "escopo": "Câmara Municipal de Maringá, exportações de empenhos e contratos de 2026",
+  "total_contratos": 35,
+  "correspondencias_textuais": 28,
+  "criterio": "Igualdade exata da razão social normalizada; NÃO presume identificação societária confirmada nem pagamento contratual.",
+  "avisos": [
+    "O valor contratado não se soma ao valor pago do empenho.",
+    "Um contrato pode estar vigente por vários exercícios, sem lançamento de pagamento em 2026.",
+    "Ausência de coincidência textual não significa ausência de relação contratual.",
+    "O CNPJ está na planilha de empenhos e precisa ser verificado no contrato assinado para confirmar identidade."
+  ],
+  "vinculos": [
+    {
+      "cnpj": "53856831000126",
+      "fornecedor_planilha": "GBB COMUNICAÇÃO LTDA",
+      "contrato": "28/2026",
+      "contratado": "GBB COMUNICAÇÃO LTDA",
+      "valor_contratado_centavos": 8000000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "29739737003390",
+      "fornecedor_planilha": "ELEVADORES OTIS LTDA",
+      "contrato": "26/2026",
+      "contratado": "ELEVADORES OTIS LTDA",
+      "valor_contratado_centavos": 455000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "59613718000104",
+      "fornecedor_planilha": "59.613.718 MILENA MELO DE MIRANDA",
+      "contrato": "25/2026",
+      "contratado": "59.613.718 MILENA MELO DE MIRANDA",
+      "valor_contratado_centavos": 4454000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "65033784000108",
+      "fornecedor_planilha": "65.033.784 VICTOR RODRIGO VIEGAS DE SIQUEIRA",
+      "contrato": "24/2026",
+      "contratado": "65.033.784 VICTOR RODRIGO VIEGAS DE SIQUEIRA",
+      "valor_contratado_centavos": 3200000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "20992564000165",
+      "fornecedor_planilha": "HELPFIX ATACADO DE PAPELARIA LTDA",
+      "contrato": "23/2026",
+      "contratado": "HELPFIX ATACADO DE PAPELARIA LTDA",
+      "valor_contratado_centavos": 1182760,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "24206696000175",
+      "fornecedor_planilha": "FUNDAÇÃO PARA O DESENVOLVIMENTO DO ENSINO E DA PESQUISA DO DIREITO – FADEP",
+      "contrato": "22/2026",
+      "contratado": "FUNDAÇÃO PARA O DESENVOLVIMENTO DO ENSINO E DA PESQUISA DO DIREITO – FADEP",
+      "valor_contratado_centavos": 58777000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "25390687000140",
+      "fornecedor_planilha": "COLIBRI PAPEIS LTDA",
+      "contrato": "21/2026",
+      "contratado": "COLIBRI PAPEIS LTDA",
+      "valor_contratado_centavos": 2252800,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "27232288000186",
+      "fornecedor_planilha": "RB COMUNICAÇÃO VISUAL LTDA",
+      "contrato": "20/2026",
+      "contratado": "RB COMUNICAÇÃO VISUAL LTDA",
+      "valor_contratado_centavos": 1166000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "30592834000102",
+      "fornecedor_planilha": "Portal Licitções Municipais Ltda.",
+      "contrato": "19/2026",
+      "contratado": "Portal Licitções Municipais Ltda.",
+      "valor_contratado_centavos": 8400000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "41244330000100",
+      "fornecedor_planilha": "SOLANGE VIDAL MANN LTDA",
+      "contrato": "18/2026",
+      "contratado": "SOLANGE VIDAL MANN LTDA",
+      "valor_contratado_centavos": 1964700,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "04772585000119",
+      "fornecedor_planilha": "EDITORA PROGRESSIVA LTDA",
+      "contrato": "17/2026",
+      "contratado": "EDITORA PROGRESSIVA LTDA",
+      "valor_contratado_centavos": 5798600,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "59909566000183",
+      "fornecedor_planilha": "59.909.566 AILTON ROSA",
+      "contrato": "16/2026",
+      "contratado": "59.909.566 AILTON ROSA",
+      "valor_contratado_centavos": 1894295,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "52685521000123",
+      "fornecedor_planilha": "OLIVEIRA PRESENTES E UTILIDADES LTDA",
+      "contrato": "14/2026",
+      "contratado": "OLIVEIRA PRESENTES E UTILIDADES LTDA",
+      "valor_contratado_centavos": 1720000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "04932770000123",
+      "fornecedor_planilha": "KASA KOMPLETA COMERCIO E SERVICOS LTDA",
+      "contrato": "13/2026",
+      "contratado": "KASA KOMPLETA COMERCIO E SERVICOS LTDA",
+      "valor_contratado_centavos": 1613400,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "28643002000118",
+      "fornecedor_planilha": "AMILTON FERREIRA DE LIMA JUNIOR 04171517990",
+      "contrato": "11/2026",
+      "contratado": "AMILTON FERREIRA DE LIMA JUNIOR 04171517990",
+      "valor_contratado_centavos": 2800000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "30851634000119",
+      "fornecedor_planilha": "DANIELE DIONISIO MENDES FLORES E FESTAS",
+      "contrato": "10/2026",
+      "contratado": "DANIELE DIONISIO MENDES FLORES E FESTAS",
+      "valor_contratado_centavos": 4542127,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "77935567000184",
+      "fornecedor_planilha": "SOCIEDADE RURAL DE MARINGÁ",
+      "contrato": "9/2026",
+      "contratado": "SOCIEDADE RURAL DE MARINGÁ",
+      "valor_contratado_centavos": 15239000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "10204981000142",
+      "fornecedor_planilha": "FR DRYWALL INSTALADORA E DISTRIBUIDORA LTDA",
+      "contrato": "8/2026",
+      "contratado": "FR DRYWALL INSTALADORA E DISTRIBUIDORA LTDA",
+      "valor_contratado_centavos": 2813995,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "04884221000120",
+      "fornecedor_planilha": "FÁBRICA DAS BANDEIRAS IND. COM. DE CONFECÇÕES SERVIÇOS E ACESSÓRIOS LTDA",
+      "contrato": "7/2026",
+      "contratado": "FÁBRICA DAS BANDEIRAS IND. COM. DE CONFECÇÕES SERVIÇOS E ACESSÓRIOS LTDA",
+      "valor_contratado_centavos": 3238200,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "03419902000155",
+      "fornecedor_planilha": "R6 INSTITUICAO DE PAGAMENTOS LTDA",
+      "contrato": "6/2026",
+      "contratado": "R6 INSTITUICAO DE PAGAMENTOS LTDA",
+      "valor_contratado_centavos": 30000000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "40485357000121",
+      "fornecedor_planilha": "JR & FILHOS COMÉRCIO DE ALIMENTOS LTDA",
+      "contrato": "5/2026",
+      "contratado": "JR & FILHOS COMÉRCIO DE ALIMENTOS LTDA",
+      "valor_contratado_centavos": 191685,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "04523065000172",
+      "fornecedor_planilha": "INSTALFLEX SERVICOS E INSTALACOES ELETRICAS LTDA",
+      "contrato": "4/2026",
+      "contratado": "INSTALFLEX SERVICOS E INSTALACOES ELETRICAS LTDA",
+      "valor_contratado_centavos": 5915377,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "55160542000113",
+      "fornecedor_planilha": "A2 COMÉRCIO E SERVIÇOS LTDA",
+      "contrato": "3/2026",
+      "contratado": "A2 COMÉRCIO E SERVIÇOS LTDA",
+      "valor_contratado_centavos": 2272400,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "47535889000175",
+      "fornecedor_planilha": "FRANKE CADEIRAS LTDA",
+      "contrato": "3/2026",
+      "contratado": "FRANKE CADEIRAS LTDA",
+      "valor_contratado_centavos": 4580000,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "05633047000106",
+      "fornecedor_planilha": "METAL GRAPH GRAVAÇÕES EM METAIS LTDA.",
+      "contrato": "2/2026",
+      "contratado": "METAL GRAPH GRAVAÇÕES EM METAIS LTDA.",
+      "valor_contratado_centavos": 662500,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "42855152000116",
+      "fornecedor_planilha": "TRATTO MOVEIS LTDA.",
+      "contrato": "2/2026",
+      "contratado": "TRATTO MOVEIS LTDA.",
+      "valor_contratado_centavos": 3990060,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "04792670000149",
+      "fornecedor_planilha": "ASSOCIAÇÃO BENEFICENTE BOM SAMARITANO",
+      "contrato": "1/2026",
+      "contratado": "ASSOCIAÇÃO BENEFICENTE BOM SAMARITANO",
+      "valor_contratado_centavos": 18291024,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    },
+    {
+      "cnpj": "80577232000146",
+      "fornecedor_planilha": "INDUSTRIA E COMERCIO DE PLACAS BULMARPLAC LTDA",
+      "contrato": "1/2026",
+      "contratado": "INDUSTRIA E COMERCIO DE PLACAS BULMARPLAC LTDA",
+      "valor_contratado_centavos": 8272700,
+      "metodo": "Coincidência exata de nome após normalizar acentos, espaços e pontuação",
+      "validacao": "Correspondência textual; confirmação jurídica por CNPJ no contrato original ainda pendente"
+    }
+  ]
+}

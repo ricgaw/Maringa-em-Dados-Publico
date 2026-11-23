@@ -1,0 +1,66 @@
+{
+  "versao": 1,
+  "data_de_referencia": "2026-11-20",
+  "data_da_revisao": "2026-11-21",
+  "fonte": "Exportações do Portal da Transparência da Câmara Municipal de Maringá, 20/11/2026",
+  "metodo": "Verificações automáticas, aritméticas e textuais nos arquivos já coletados; sem acesso aos contratos assinados ou confirmação do QSA atual.",
+  "indicadores": {
+    "cnpjs_na_base": 100,
+    "cnpjs_com_digitos_validos": 100,
+    "cnpjs_com_digitos_invalidos": 0,
+    "contratos_atas": 35,
+    "correspondencias_apenas_por_nome": 28,
+    "sem_correspondencia_exata": 7,
+    "identidades_confirmadas_por_cnpj_no_contrato": 0,
+    "contratos_com_inicio_posterior_a_exportacao": 2,
+    "numeros_reutilizados_entre_tipos": 3,
+    "chaves_tipo_numero_duplicadas": 0,
+    "total_pago_informado_centavos": 4675336155,
+    "total_pago_associado_a_cnpj_centavos": 4526744021,
+    "total_nao_associado_a_cnpj_centavos": 148592134
+  },
+  "contratos_futuros": [
+    {
+      "tipo": "Contrato ou ata",
+      "numero": "32/2026",
+      "inicio": "2026-11-23",
+      "contratado": "ALGAR TELECOM S.A."
+    },
+    {
+      "tipo": "Contrato ou ata",
+      "numero": "27/2026",
+      "inicio": "2026-12-28",
+      "contratado": "ICLIPPING SERVICOS DE MONITORAMENTO E INFORMACAO LTDA"
+    }
+  ],
+  "numeros_reutilizados_entre_tipos": [
+    "1/2026",
+    "2/2026",
+    "3/2026"
+  ],
+  "avisos": [
+    "Dígitos válidos de um CNPJ não confirmam razão social, titularidade, situação cadastral ou vínculo político.",
+    "Coincidência textual da razão social não vincula um pagamento a um contrato específico.",
+    "Um número de contrato pode reaparecer em tipo diferente de instrumento; usar tipo + número.",
+    "Valor pago informado é uma coluna do relatório de empenhos; não equivale à conferência de extrato bancário.",
+    "Nada nesta auditoria demonstra parentesco, direcionamento licitatório ou irregularidade."
+  ],
+  "links_de_conferencia": [
+    {
+      "nome": "Câmara — Portal da Transparência",
+      "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/"
+    },
+    {
+      "nome": "Receita Federal — consulta de CNPJ e QSA",
+      "url": "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas"
+    },
+    {
+      "nome": "TSE — dados de prestações de contas",
+      "url": "https://dadosabertos.tse.jus.br/group/prestacao-de-contas-eleitorais"
+    },
+    {
+      "nome": "SAPL — requerimento sobre Elotech (2017)",
+      "url": "https://sapl.cmm.pr.gov.br/sessao/924/expediente"
+    }
+  ]
+}

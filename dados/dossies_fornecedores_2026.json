@@ -1,0 +1,149 @@
+{
+  "versao": 1,
+  "coleta_financeira": "2026-11-20",
+  "conferencia_fontes": "2026-11-21",
+  "escopo": "Câmara Municipal de Maringá — fontes de 2026 e documentos históricos associados",
+  "metodologia": "Fichas vinculadas por CNPJ do relatório de empenhos; fontes externas não alteram valores financeiros. Não são investigação conclusiva de parentesco ou ilícito. A seção de linha do tempo distingue o conteúdo do documento original da interpretação da equipe.",
+  "perfis": {
+    "80896194000194": {
+      "descricao": "Empresa de sistemas de gestão pública com sede em Maringá, conforme cadastro empresarial consultado.",
+      "fontes_externas": [
+        {
+          "tipo": "Quadro societário — cadastro empresarial secundário",
+          "titulo": "Elotech: Cheers Holding, Palo Alto Holding e Marco Aurelio Castaldo Andrade constam no cadastro consultado",
+          "url": "https://www.econodata.com.br/consulta-empresa/80896194000194-elotech-gestao-publica-ltda",
+          "data_consulta": "2026-11-20",
+          "ressalva": "O cadastro consultado não substitui uma certidão atualizada da Receita Federal/Junta Comercial."
+        },
+        {
+          "tipo": "Documento contratual público histórico",
+          "titulo": "Documento de 2022 com atos societários históricos da Elotech — Câmara Municipal de Londrina",
+          "url": "https://www1.cml.pr.gov.br/tmpp/integra_569_23.pdf",
+          "data_consulta": "2026-11-20",
+          "ressalva": "Documento histórico, não prova composição societária atual nem vínculo político."
+        },
+        {
+          "tipo": "Notícia institucional da Câmara, 16/07/2026",
+          "titulo": "Câmara registrou treinamento de servidores por técnico da Elotech sobre módulo de compras",
+          "url": "https://www.cmm.pr.gov.br/?id=7190&inc=noticia",
+          "data_consulta": "2026-11-21",
+          "ressalva": "A notícia institucional registra uma atividade de capacitação, mas não indica parentesco, influência política ou ilegalidade."
+        }
+      ],
+      "pontos_a_verificar": [
+        "Obter certidão atualizada do QSA na Receita Federal",
+        "Conferir os processos e aditivos da Câmara de Maringá",
+        "Pesquisar prestações de contas eleitorais no TSE com documentos que permitam verificar homônimos"
+      ],
+      "status_vinculo_politico": "Não há vínculo político ou familiar comprovado neste levantamento.",
+      "nota": "Um fornecedor público não é suspeito de irregularidade por existir contrato; coincidências nominais não comprovam parentesco.",
+      "linha_do_tempo_documental": [
+        {
+          "data": "2015",
+          "titulo": "Pedido de cópias de contratos vigentes com a Prefeitura",
+          "descricao": "O vereador Humberto Henrique solicitou cópias dos contratos então vigentes entre o Município e a Elotech. É um pedido de informação, não uma conclusão sobre a contratação.",
+          "origem": "Câmara Municipal de Maringá — resumo da sessão",
+          "url": "https://sapl.cmm.pr.gov.br/sessao/717/resumo"
+        },
+        {
+          "data": "19/09/2017",
+          "titulo": "Requerimento 1.295/2017 sobre contratação, aditivos e pagamentos",
+          "descricao": "O vereador Homero Marchese requereu esclarecimentos ao Executivo sobre o primeiro contrato, modalidade de contratação, aditivos, valores e vigência.",
+          "origem": "Câmara Municipal de Maringá — expediente",
+          "url": "https://sapl.cmm.pr.gov.br/sessao/924/expediente"
+        },
+        {
+          "data": "2017",
+          "titulo": "Resposta administrativa sobre histórico de prestação do serviço",
+          "descricao": "A resposta oficial informa que a empresa iniciou serviços em 2005 mediante dispensa descrita pelo Município como emergencial. Essa é a justificativa apresentada pela Prefeitura em resposta ao requerimento; não é uma validação independente da legalidade.",
+          "origem": "Resposta da Prefeitura anexada ao SAPL",
+          "url": "https://sapl.cmm.pr.gov.br/media/sapl/public/documentoacessorio/2017/15398/15398.pdf"
+        },
+        {
+          "data": "2026",
+          "titulo": "Registros financeiros de 2026 da Câmara",
+          "descricao": "O CNPJ aparece no relatório financeiro exportado. O valor pago na planilha é dado declarado pelo portal; deve ser confrontado com contrato, notas e extratos.",
+          "origem": "Portal da Transparência da Câmara — exportação de empenhos",
+          "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/empenhos/cf"
+        }
+      ]
+    },
+    "73289340000158": {
+      "descricao": "Empresa identificada como Sol Propaganda nas planilhas de empenhos da Câmara e no demonstrativo da campanha Das Leis às Obras II.",
+      "fontes_externas": [
+        {
+          "tipo": "Cadastro empresarial secundário",
+          "titulo": "Sol Propaganda Limitada — CNPJ 73.289.340/0001-58",
+          "url": "https://www.econodata.com.br/consulta-empresa/73289340000158-sol-propaganda-limitada",
+          "data_consulta": "2026-11-20",
+          "ressalva": "Conferir sócios e situação cadastral na Receita Federal antes de publicar nomes."
+        },
+        {
+          "tipo": "Documento fornecido para a apuração",
+          "titulo": "Demonstrativo de execução da campanha Das Leis às Obras II 2026",
+          "url": "documentos/campanha_das_leis_as_obras_II_2026.pdf",
+          "data_consulta": "2026-11-20",
+          "ressalva": "O PDF informa valores agregados por meio e comissão, sem demonstrar pagamentos individuais aos veículos citados."
+        },
+        {
+          "tipo": "Processo de contratação de publicidade — notícia institucional",
+          "titulo": "Câmara publicou informações sobre credenciamento de profissionais para subcomissão técnica de publicidade",
+          "url": "https://www.cmm.pr.gov.br/?id=7409&inc=noticia",
+          "data_consulta": "2026-11-21",
+          "ressalva": "A publicação trata de procedimento de publicidade e não comprova vínculo da Sol Propaganda com essa licitação específica."
+        }
+      ],
+      "pontos_a_verificar": [
+        "Identificar contrato, agência, notas fiscais e pagamentos da campanha",
+        "Conferir quadro societário atualizado em cadastro oficial",
+        "Verificar histórico de contratação e eventuais doações eleitorais documentadas"
+      ],
+      "status_vinculo_politico": "Não há vínculo político ou familiar comprovado neste levantamento.",
+      "nota": "Um fornecedor público não é suspeito de irregularidade por existir contrato; coincidências nominais não comprovam parentesco.",
+      "linha_do_tempo_documental": [
+        {
+          "data": "2026",
+          "titulo": "Campanha “Das Leis às Obras II” — R$ 621.214 no demonstrativo",
+          "descricao": "O demonstrativo discrimina R$ 442.828 para meios e R$ 178.386 para criação e comissão; não demonstra o pagamento individual a cada veículo nem a conciliação com os empenhos.",
+          "origem": "Documento da Câmara fornecido para a apuração",
+          "url": "documentos/campanha_das_leis_as_obras_II_2026.pdf"
+        }
+      ]
+    },
+    "07593524000182": {
+      "descricao": "Empresa prestadora de serviços identificada na execução de empenhos da Câmara em 2026.",
+      "fontes_externas": [
+        {
+          "tipo": "Cadastro empresarial secundário",
+          "titulo": "Brasilrecruta — cadastro empresarial e identificação de administrador",
+          "url": "https://www.solutudo.com.br/empresas/sc/s-jose/transportadoras/brasilrecruta-mao-de-obra-ltda-4263109",
+          "data_consulta": "2026-11-20",
+          "ressalva": "Cadastro secundário; exige validação oficial da composição societária."
+        },
+        {
+          "tipo": "Contratação pública histórica",
+          "titulo": "Diário Oficial da União de 18/06/2020: referência à contratação da Brasilrecruta",
+          "url": "https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=18%2F06%2F2020&jornal=530&pagina=101",
+          "data_consulta": "2026-11-20",
+          "ressalva": "A referência federal de 2020 não indica relação com políticos de Maringá."
+        }
+      ],
+      "pontos_a_verificar": [
+        "Conferir a vigência contratual local e o objeto completo",
+        "Checar histórico societário na Receita Federal",
+        "Examinar processos licitatórios e comprovantes de execução dos serviços"
+      ],
+      "status_vinculo_politico": "Não há vínculo político ou familiar comprovado neste levantamento.",
+      "nota": "Um fornecedor público não é suspeito de irregularidade por existir contrato; coincidências nominais não comprovam parentesco.",
+      "linha_do_tempo_documental": [
+        {
+          "data": "2026",
+          "titulo": "Empenhos em nome da empresa no relatório da Câmara",
+          "descricao": "Valores e número de empenhos são os registrados na planilha de 2026. Ainda é necessário conferir contrato, notas fiscais e relação de empregados para avaliar a execução dos serviços.",
+          "origem": "Portal da Transparência da Câmara",
+          "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/empenhos/cf"
+        }
+      ]
+    }
+  }
+}

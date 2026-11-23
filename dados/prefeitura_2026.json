@@ -1,0 +1,90 @@
+{
+  "data_referencia": "2026-11-10",
+  "fontes": {
+    "loa": "https://www.cmm.pr.gov.br/?id=7002&inc=noticia",
+    "despesas": "https://transparencia.maringa.pr.gov.br/portaltransparencia/1/despesa/orgao",
+    "obras": "https://transparencia.maringa.pr.gov.br/portaltransparencia/1/obraspublicas",
+    "regimento": "https://www.cmm.pr.gov.br/redacao/regimento.pdf",
+    "sapl": "https://sapl.cmm.pr.gov.br/"
+  },
+  "loa_receitas_previstas_centavos": 347835549300,
+  "loa_observacao": "Receitas previstas na LOA 2026, sem receitas intraorçamentárias; não equivale ao orçamento de um único órgão nem à execução financeira.",
+  "execucao_por_orgao": {
+    "atualizacao": "2026-11-10",
+    "recorte": "Listagem de despesas por órgão do Portal da Transparência municipal; seu universo não equivale automaticamente ao total da LOA.",
+    "orcado_centavos": 284265039900,
+    "empenhado_centavos": 263886658243,
+    "liquidado_centavos": 214014067640,
+    "pago_centavos": 183921741954,
+    "orgaos": [
+      {
+        "nome": "Saúde",
+        "orcado_centavos": 88076810800,
+        "pago_centavos": 61007681078
+      },
+      {
+        "nome": "Educação",
+        "orcado_centavos": 65570660000,
+        "pago_centavos": 42204959768
+      },
+      {
+        "nome": "Infraestrutura",
+        "orcado_centavos": 12006758500,
+        "pago_centavos": 12711074155
+      },
+      {
+        "nome": "Obras Públicas",
+        "orcado_centavos": 16197134100,
+        "pago_centavos": 1317686372
+      },
+      {
+        "nome": "Limpeza Urbana",
+        "orcado_centavos": 10907522900,
+        "pago_centavos": 7392045958
+      }
+    ]
+  },
+  "obras_atualizacao": "2026-11-13",
+  "obras": [
+    {
+      "id": "35/2026",
+      "nome": "Duplicação e restauração do Contorno Sul",
+      "empresa": "Construtora Tripoloni Ltda.",
+      "contrato_centavos": 44294590286,
+      "status": "Não iniciada",
+      "medicao_percentual": 0,
+      "data_inicio": "2026-09-21",
+      "observacao": "Situação e medição conforme cadastro da Prefeitura, não comprovação de pagamento."
+    },
+    {
+      "id": "26/2026",
+      "nome": "Recuperação da ponte sobre o Ribeirão Mandacaru",
+      "empresa": "Extracon Mineração e Obras Ltda.",
+      "contrato_centavos": 207800000,
+      "status": "Em andamento",
+      "medicao_percentual": 15.69,
+      "data_inicio": "2026-09-08",
+      "observacao": "Medição publicada não equivale a percentual de dinheiro pago."
+    },
+    {
+      "id": "19/2026",
+      "nome": "Readequação elétrica do Hospital Municipal e UPA Zona Sul",
+      "empresa": "Félix Engenharia Elétrica Ltda. - EPP",
+      "contrato_centavos": 34733020,
+      "status": "Em andamento",
+      "medicao_percentual": 32.63,
+      "data_inicio": "2026-07-28",
+      "observacao": "Medição declarada pelo portal; não significa obra entregue."
+    },
+    {
+      "id": "28/2026",
+      "nome": "Construção do PAM Zona Oeste — lote 2",
+      "empresa": "Embracol Obras Ltda.",
+      "contrato_centavos": 552180620,
+      "status": "Cancelada",
+      "medicao_percentual": 0,
+      "data_inicio": "2026-09-09",
+      "observacao": "O cadastro identifica esta intervenção específica como cancelada. Isso não permite concluir que todo o projeto do PAM foi cancelado."
+    }
+  ]
+}

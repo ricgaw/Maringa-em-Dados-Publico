@@ -1,0 +1,118 @@
+{
+  "versao": 2,
+  "data_verificacao": "2026-11-20",
+  "escopo": "Câmara Municipal de Maringá, salvo indicação expressa de outra fonte",
+  "nota": "Fatos verificados em publicações. Não há importação de folha individual nem despesas pagas neste conjunto. Valores monetários têm naturezas e datas diferentes. A versão 2 acrescenta exemplos pontuais de pagamentos oficiais e obras, sem totalização ou amostragem representativa.",
+  "itens": [
+    {
+      "id": "orcamento-proposta-2026",
+      "ordem": 1,
+      "data": "2025-10-08",
+      "categoria": "Orçamento",
+      "titulo": "Câmara reduziu em R$ 10 milhões a proposta orçamentária para 2026",
+      "destaque": "R$ 72.158.007",
+      "subtitulo": "Proposta orçamentária de 2026",
+      "descricao": "A Câmara divulgou proposta de R$ 72.158.007 para 2026, após reduzir R$ 10 milhões da previsão inicial de R$ 82.158.007. O valor é uma proposta orçamentária divulgada em outubro de 2025; não representa despesas efetivamente pagas.",
+      "status": "Proposta divulgada",
+      "fase": "Previsão, não execução",
+      "fonte": "Câmara Municipal de Maringá",
+      "url": "https://www.cmm.pr.gov.br/?id=6261&inc=noticia"
+    },
+    {
+      "id": "subsidios-marco-2026",
+      "ordem": 2,
+      "data": "2026-03-26",
+      "categoria": "Remuneração",
+      "titulo": "Revisão de 4,5% dos subsídios aprovada em março",
+      "destaque": "4,5%",
+      "subtitulo": "Revisão aprovada a partir de março de 2026",
+      "descricao": "Em 26 de março, a Câmara informou que os vereadores aprovaram uma revisão de 4,5% para os subsídios de parlamentares e a remuneração dos servidores. É um percentual aprovado, não a comprovação do valor pago a cada pessoa.",
+      "status": "Aprovação noticiada",
+      "fase": "Norma/revisão; pagamentos não auditados",
+      "fonte": "Câmara Municipal de Maringá",
+      "url": "https://www.cmm.pr.gov.br/?id=6754&inc=noticia"
+    },
+    {
+      "id": "valor-referencia-2026",
+      "ordem": 3,
+      "data": "2026-03-26",
+      "categoria": "Remuneração",
+      "titulo": "Quanto foi divulgado como subsídio bruto mensal de vereador após a revisão?",
+      "destaque": "R$ 15.873,55",
+      "subtitulo": "Valor divulgado pela imprensa em 26/03/2026",
+      "descricao": "A CBN Maringá informou que, com o reajuste de 4,5%, o subsídio mensal dos vereadores passaria a R$ 15.873,55, com efeitos retroativos a março. É o valor divulgado após a votação, não um demonstrativo individual de pagamento. O valor efetivamente pago e eventuais determinações jurídicas exigem conferência da folha oficial.",
+      "status": "Valor noticiado; folha pendente",
+      "fase": "Referência informada, não pagamento comprovado",
+      "fonte": "CBN Maringá",
+      "url": "https://cbnmaringa.com.br/noticia/camara-de-maringa-finaliza-votacao-sobre-recomposicao-dos-subsidios-dos-vereadores/"
+    },
+    {
+      "id": "adequacao-recuperacao-2026",
+      "ordem": 4,
+      "data": "2026-11-10",
+      "categoria": "Orçamento",
+      "titulo": "Câmara propõe adequação de R$ 5 milhões para recuperação da cidade",
+      "destaque": "R$ 5 milhões",
+      "subtitulo": "Proposta formalizada após tempestade",
+      "descricao": "Segundo publicação oficial de 10 de novembro, a Câmara formalizou proposta para adequar em R$ 5 milhões os recursos previstos ao Legislativo, de modo a apoiar ações municipais de recuperação após a tempestade. A publicação condiciona os ajustes à tramitação legal e a atos posteriores: não comprova transferência concluída nem gasto aplicado.",
+      "status": "Proposta anunciada",
+      "fase": "Acompanhar aprovação e execução",
+      "fonte": "Câmara Municipal de Maringá",
+      "url": "https://www.cmm.pr.gov.br/noticias/7515/camara-propoe-adequacao-orcamentaria-de-r-5-milhoes-para-apoiar-a-recuperacao-de-maringa"
+    }
+  ],
+  "orientacoes": [
+    {
+      "titulo": "Vereadores têm 13º salário?",
+      "texto": "A FAQ oficial informa que os vereadores passaram a ter direito a décimo terceiro a partir de emenda à Lei Orgânica de dezembro de 2022. A existência do direito não verifica pagamentos individuais.",
+      "url": "https://transparencia.cmm.pr.gov.br/?inc=faq"
+    },
+    {
+      "titulo": "Existe verba de gabinete ou cota parlamentar?",
+      "texto": "A FAQ oficial informa que não há cota parlamentar ou verba indenizatória individual para vereadores. Diárias para viagens autorizadas são informação separada; os gabinetes também têm servidores nomeados pela Câmara.",
+      "url": "https://transparencia.cmm.pr.gov.br/?inc=faq"
+    },
+    {
+      "titulo": "Quantos cargos compõem um gabinete?",
+      "texto": "A FAQ oficial descreve um chefe de gabinete, um assessor parlamentar e dois assessores de gabinete, além do vereador. Essa estrutura prevista não comprova todas as vagas preenchidas ou o custo da folha em um mês.",
+      "url": "https://transparencia.cmm.pr.gov.br/?inc=faq"
+    }
+  ],
+  "fontes_financeiras": [
+    {
+      "titulo": "Transparência — Câmara",
+      "url": "https://transparencia.cmm.pr.gov.br/",
+      "detalhe": "Remuneração, despesas, contratos e diárias do Legislativo"
+    },
+    {
+      "titulo": "Portal financeiro da Câmara (Elotech)",
+      "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/",
+      "detalhe": "Portal financeiro do Legislativo (entidade 6): folha, empenhos, pagamentos, diárias, contratos e dados abertos."
+    },
+    {
+      "titulo": "Portal da Prefeitura",
+      "url": "https://transparencia.maringa.pr.gov.br/portaltransparencia/",
+      "detalhe": "Despesas do Executivo, que não devem ser somadas às da Câmara sem conciliação"
+    },
+    {
+      "titulo": "Pagamentos da Câmara — ordem cronológica",
+      "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos",
+      "detalhe": "Relação oficial de pagamentos em 2026; permite conferir data, fornecedor, nota fiscal e empenho."
+    },
+    {
+      "titulo": "Empenhos da Câmara",
+      "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/empenhos/cf",
+      "detalhe": "Empenhado, liquidado e pago: etapas diferentes da execução da despesa."
+    },
+    {
+      "titulo": "Dados abertos da Câmara",
+      "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/dados-abertos",
+      "detalhe": "Catálogo com bases de folha, contratos e despesas, quando disponibilizadas."
+    },
+    {
+      "titulo": "Obras da Prefeitura",
+      "url": "https://maringa.oxy.elotech.com.br/portaltransparencia/1/obraspublicas",
+      "detalhe": "Intervenções municipais do Poder Executivo; valores de contrato e medição não são pagamentos."
+    }
+  ]
+}

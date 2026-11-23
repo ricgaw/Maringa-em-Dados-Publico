@@ -1,0 +1,106 @@
+{
+  "data_coleta": "2026-11-20",
+  "tipo": "Seleção editorial não exaustiva, não representativa",
+  "nota_pagamentos": "Pagamentos identificados na página oficial de ordem cronológica. Os exemplos não são a despesa total de janeiro nem de 2026. A natureza/objeto contratual precisa ser examinada individualmente nos empenhos. A fonte pode ser atualizada.",
+  "nota_obras": "Obras registradas no portal da Prefeitura. Valor contratado não é pagamento efetuado. Percentuais e situação são os exibidos na consulta de 20/11/2026, podem mudar e não constituem auditoria independente.",
+  "pagamentos": [
+    {
+      "data_pagamento": "2026-01-12",
+      "fornecedor": "SUPER ACESSO INFORMAÇÃO LTDA.",
+      "empenho": "6/2026",
+      "nota_fiscal": "16342",
+      "valor_centavos": 179000,
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos"
+    },
+    {
+      "data_pagamento": "2026-01-12",
+      "fornecedor": "LÍDER NOTEBOOKS COMÉRCIO E SERVIÇOS LTDA",
+      "empenho": "614/2025",
+      "nota_fiscal": "14662",
+      "valor_centavos": 20244022,
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos"
+    },
+    {
+      "data_pagamento": "2026-01-13",
+      "fornecedor": "COPEL DISTRIBUIÇÃO S.A.",
+      "empenho": "35/2026",
+      "nota_fiscal": "204257530",
+      "valor_centavos": 1930050,
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos"
+    },
+    {
+      "data_pagamento": "2026-01-13",
+      "fornecedor": "LIGGA TELECOMUNICAÇÕES S.A.",
+      "empenho": "15/2026",
+      "nota_fiscal": "1149528",
+      "valor_centavos": 71400,
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos"
+    },
+    {
+      "data_pagamento": "2026-01-13",
+      "fornecedor": "ESQUINA DO PÃO PANIFICADORA LTDA",
+      "empenho": "17/2026",
+      "nota_fiscal": "4093",
+      "valor_centavos": 301041,
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos"
+    },
+    {
+      "data_pagamento": "2026-01-14",
+      "fornecedor": "BRASILRECRUTA MAO DE OBRA LTDA",
+      "empenho": "21/2026",
+      "nota_fiscal": "746",
+      "valor_centavos": 3440103,
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos"
+    },
+    {
+      "data_pagamento": "2026-01-22",
+      "fornecedor": "VISUAL SISTEMAS ELETRONICOS LTDA",
+      "empenho": "8/2026",
+      "nota_fiscal": "279",
+      "valor_centavos": 1793568,
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos"
+    },
+    {
+      "data_pagamento": "2026-01-22",
+      "fornecedor": "ELOTECH GESTAO PUBLICA LTDA.",
+      "empenho": "71/2026",
+      "nota_fiscal": "39307",
+      "valor_centavos": 692422,
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos"
+    },
+    {
+      "data_pagamento": "2026-02-02",
+      "fornecedor": "RALT TECH CONSTRUÇÕES LTDA",
+      "empenho": "354/2024",
+      "nota_fiscal": "7",
+      "valor_centavos": 4736179,
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos"
+    }
+  ],
+  "obras": [
+    {
+      "orgao": "Prefeitura de Maringá",
+      "titulo": "Readequação elétrica do Hospital Municipal e UPA Zona Sul",
+      "empresa": "FELIX ENGENHARIA ELETRICA LTDA - EPP",
+      "valor_contrato_centavos": 34733020,
+      "medicao_percentual": 32.63,
+      "situacao": "Em andamento",
+      "inicio": "2026-07-28",
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/1/obraspublicas"
+    },
+    {
+      "orgao": "Prefeitura de Maringá",
+      "titulo": "Contorno Sul de Maringá — Prefeito Sincler Sambatti",
+      "empresa": "CONSTRUTORA TRIPOLONI LTDA",
+      "valor_contrato_centavos": 44294590286,
+      "medicao_percentual": 0,
+      "situacao": "Em andamento",
+      "inicio": "2026-09-21",
+      "fonte": "https://maringa.oxy.elotech.com.br/portaltransparencia/1/obraspublicas"
+    }
+  ],
+  "fontes": [
+    "https://maringa.oxy.elotech.com.br/portaltransparencia/6/ordem-cronologica-pagamentos",
+    "https://maringa.oxy.elotech.com.br/portaltransparencia/1/obraspublicas"
+  ]
+}
