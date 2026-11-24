@@ -223,3 +223,20 @@ button.promise-stage:focus-visible{outline:3px solid #146c53;outline-offset:3px}
 button.promise-stage.is-selected{outline:3px solid #216b52;outline-offset:2px;box-shadow:0 6px 20px rgba(17,65,46,.13)}
 #promise-results{scroll-margin-top:120px}
 @media(prefers-reduced-motion:reduce){button.promise-stage{transition:none}button.promise-stage:hover{transform:none}}
+
+/* ATUALIZAÇÃO EDITORIAL — tipos de matérias e perfil do prefeito, 2026-11-23 */
+.tag.tipo-indicacao{background:#e8f3ee;color:#176d50;border:1px solid #d1e8db}
+.tag.tipo-requerimento{background:#e9effc;color:#2b5795;border:1px solid #d3dff9}
+.tag.tipo-portaria{background:#f3edf9;color:#754a90;border:1px solid #e4d6f0}
+.tag.tipo-lei-ordinaria{background:#fff0dd;color:#98561f;border:1px solid #f4d9b7}
+.tag.tipo-projeto{background:#eaf1f7;color:#3a6080;border:1px solid #d3e0ed}
+.tag.tipo-outro{background:#eff0ed;color:#5c6962;border:1px solid #dfe3dc}
+.prefeito-card{display:grid;grid-template-columns:200px minmax(0,1fr);gap:30px;background:#fff;border:1px solid #dae6dd;border-radius:17px;padding:26px;margin:0 0 26px;box-shadow:0 10px 27px rgba(17,63,48,.04)}
+.prefeito-card-photo{position:relative;border-radius:12px;background:#e6eee8;overflow:hidden;min-height:255px;display:grid;place-items:center}
+.prefeito-card-photo img{width:100%;height:100%;object-fit:cover;position:absolute;inset:0;z-index:1}
+.prefeito-photo-fallback{font:800 55px Manrope,sans-serif;color:#7caa94}
+.prefeito-card-body{min-width:0}.prefeito-card h2{font:800 clamp(22px,2.7vw,31px)/1.2 Manrope,sans-serif;letter-spacing:-.8px;margin:10px 0 17px}
+.prefeito-facts{display:flex;gap:9px;flex-wrap:wrap;margin:12px 0 18px}.prefeito-facts span{padding:8px 11px;border-radius:7px;background:#f0f5f0;font-size:12px;color:#305b49}.prefeito-facts strong{display:block;font-size:10px;color:#667e70}
+.prefeito-subsidio{border-left:3px solid #c48e55;padding:11px 15px;background:#fbf7f0;border-radius:0 8px 8px 0}.prefeito-subsidio small{display:block;color:#856d4b;font-size:10px;font-weight:800;letter-spacing:.5px}.prefeito-subsidio>strong{display:block;font:800 26px Manrope,sans-serif;color:#244c3d;margin:4px 0}.prefeito-subsidio p{font-size:12px;line-height:1.6;margin:0;color:#657468}
+.prefeito-links{display:flex;gap:13px;flex-wrap:wrap;margin-top:15px}.prefeito-links a{font-size:11px;font-weight:800;color:#147560;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:650px){.prefeito-card{grid-template-columns:1fr;gap:17px;padding:18px}.prefeito-card-photo{min-height:220px;max-height:250px}.prefeito-card-photo img{object-fit:contain}.prefeito-facts{flex-direction:column}}
